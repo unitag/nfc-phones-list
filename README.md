@@ -9,7 +9,7 @@ npm install nfc-phone-list --save
 ```
 Or through Bower
 ```sh
-npm install nfc-phone-list --save
+bower install nfc-phone-list --save
 ```
 
 
@@ -18,6 +18,7 @@ Alternatively, the following files are available in the [`dist`](https://github.
  - `nfcList.min.json` JSON minified nfc phones and tablets list.
 
 ##Data
+
 The [`data`](https://github.com/unitag/nfc-phone-list/tree/master/data) directory contains lists of phones and tablets in JSON files.
 
 Each file contains an array of devices for the a manufacturer. a device is d
@@ -34,3 +35,9 @@ Each file contains an array of devices for the a manufacturer. a device is d
         "OS": ["Android"]
     },
 ```
+
+
+
+## License
+
+[MIT](https://github.com/unitag/nfc-phone-list/blob/master/LICENSE)
