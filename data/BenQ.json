@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "BenQ",
-        "model": "B50"
+        "model": "B50",
+        "OS": "Android"
     },
     {
         "manufacturer": "BenQ",
-        "model": "F52"
+        "model": "F52",
+        "OS": "Android"
     }
 ]

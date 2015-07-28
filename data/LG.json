@@ -1,278 +1,347 @@
 [
     {
         "manufacturer": "LG",
-        "model": "AKA"
+        "model": "March",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "Band Play"
+        "model": "Optimus max 3D",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "Escape"
+        "model": "Fx0",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "F60"
+        "model": "G3 Beat/LG G3 S",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "F70"
+        "model": "KU380-NFC",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "Fx0"
+        "model": "L90",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "G Flex"
+        "model": "Optimus LTE",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "G Flex 2"
+        "model": "Optimus LTE Tag",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "G Pro 2"
+        "model": "Optimus Net",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "G Stylo"
+        "model": "T530 Ego",
+        "OS": ""
     },
     {
         "manufacturer": "LG",
-        "model": "G Vista"
+        "model": "G Flex 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G2"
+        "model": "G3",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G2 D802"
+        "model": "Intuition",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G2 Mini D620"
+        "model": "Volt",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G2 Mini LTE"
+        "model": "F70",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3"
+        "model": "G3 S",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 Beat"
+        "model": "G4",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 Beat/LG G3 S"
+        "model": "G2 D802",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 Cat. 6"
+        "model": "G2 Mini D620",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 D855"
+        "model": "G3 D855",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 Prime"
+        "model": "Optimus Vu 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 s"
+        "model": "Escape",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G3 Vigor"
+        "model": "Optimus L7 II",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G4"
+        "model": "Spectrum 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G4 Beat"
+        "model": "G Flex",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "G4 Stylus"
+        "model": "G Pro 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "GX"
+        "model": "G2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Gx2"
+        "model": "Mach",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Intuition"
+        "model": "Optimus 3D MAX",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "KDDI Fx0"
+        "model": "Optimus 4X HD",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "KU380-NFC"
+        "model": "Optimus Elite",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "L Fino"
+        "model": "Optimus G",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "L90"
+        "model": "Optimus L5",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Lucid 3"
+        "model": "Optimus L7",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Mach"
+        "model": "Optimus Vu",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "March"
+        "model": "Viper",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Nexus 4"
+        "model": "Optimus F3 LTE",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Nexus 5"
+        "model": "Optimus Vu II",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus 3D Max"
+        "model": "Optimus F7",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus 4X HD"
+        "model": "Optimus G Pro",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus elite"
+        "model": "Optimus L9",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus F3"
+        "model": "Prada 3.0",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus F3 LTE"
+        "model": "AKA",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus F5"
+        "model": "Band Play",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus F6 (LG-D500)"
+        "model": "F60",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus F7"
+        "model": "G Stylo",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus G"
+        "model": "G Vista",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus G Pro"
+        "model": "G2 Mini LTE",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus it"
+        "model": "G3 Beat",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L5"
+        "model": "G3 Cat. 6",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L5 II"
+        "model": "G3 Prime",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L7"
+        "model": "G3 Vigor",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L7 II"
+        "model": "G4 Beat",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L9"
+        "model": "G4 Stylus",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L9 II"
+        "model": "GX",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus L90"
+        "model": "Gx2",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus LTE"
+        "model": "KDDI Fx0",
+        "OS": "Firefox OS"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus LTE Tag"
+        "model": "L Fino",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus max 3D"
+        "model": "Lucid 3",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus net"
+        "model": "Nexus 4",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus VU"
+        "model": "Nexus 5",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus Vu 2"
+        "model": "Optimus F3",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Optimus Vu II"
+        "model": "Optimus F5",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Prada 3.0"
+        "model": "Optimus F6 (LG-D500)",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Spectrum"
+        "model": "Optimus it",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Spectrum 2"
+        "model": "Optimus L5 II",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "T530 Ego"
+        "model": "Optimus L9 II",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Viper"
+        "model": "Optimus L90",
+        "OS": "Android"
     },
     {
         "manufacturer": "LG",
-        "model": "Volt"
+        "model": "Spectrum",
+        "OS": "Android"
     }
 ]

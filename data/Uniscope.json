@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Uniscope",
-        "model": "Uniscope XC2S"
+        "model": "Uniscope XC2S",
+        "OS": "Android"
     }
 ]

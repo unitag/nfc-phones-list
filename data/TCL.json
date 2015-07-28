@@ -1,14 +1,17 @@
 [
     {
         "manufacturer": "TCL",
-        "model": "M2L"
+        "model": "M2L",
+        "OS": "Android"
     },
     {
         "manufacturer": "TCL",
-        "model": "M2T"
+        "model": "M2T",
+        "OS": "Android"
     },
     {
         "manufacturer": "TCL",
-        "model": "P688L"
+        "model": "P688L",
+        "OS": "Android"
     }
 ]

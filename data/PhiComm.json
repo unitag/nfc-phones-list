@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "PhiComm",
-        "model": "Passion P660"
+        "model": "Passion P660",
+        "OS": "Android"
     }
 ]

@@ -1,18 +1,22 @@
 [
     {
         "manufacturer": "InFocus",
-        "model": "IN810"
+        "model": "IN810",
+        "OS": "Android"
     },
     {
         "manufacturer": "InFocus",
-        "model": "M320u"
+        "model": "M320u",
+        "OS": "Android"
     },
     {
         "manufacturer": "InFocus",
-        "model": "M330"
+        "model": "M330",
+        "OS": "Android"
     },
     {
         "manufacturer": "InFocus",
-        "model": "M512"
+        "model": "M512",
+        "OS": "Android"
     }
 ]

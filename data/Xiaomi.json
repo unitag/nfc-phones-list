@@ -1,50 +1,62 @@
 [
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 2A"
+        "model": "Mi3",
+        "OS": ""
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 3"
+        "model": "Mi 2A",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 3S"
+        "model": "Xiaomi 2A",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 4"
+        "model": "Xiaomi 3 TD-SDCMA",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 5"
+        "model": "Xiaomi 3 WCDMA/CDMA2000",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi 5 Plus"
+        "model": "Mi 3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi Note"
+        "model": "Mi 3S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi Note Pro"
+        "model": "Mi 4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi3"
+        "model": "Mi 5",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Xiaomi 2A"
+        "model": "Mi 5 Plus",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Xiaomi 3 TD-SDCMA"
+        "model": "Mi Note",
+        "OS": "Android"
     },
     {
         "manufacturer": "Xiaomi",
-        "model": "Xiaomi 3 WCDMA/CDMA2000"
+        "model": "Mi Note Pro",
+        "OS": "Android"
     }
 ]

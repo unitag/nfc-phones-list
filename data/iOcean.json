@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "iOcean",
-        "model": "G7"
+        "model": "G7",
+        "OS": "Android"
     }
 ]

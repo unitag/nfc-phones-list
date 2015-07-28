@@ -1,38 +1,47 @@
 [
     {
         "manufacturer": "Google",
-        "model": "Galaxy Nexus"
+        "model": "Nexus 9",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 10"
+        "model": "Project Tango tablet",
+        "OS": ""
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 4"
+        "model": "Nexus 10",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 5"
+        "model": "Nexus 5",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 6"
+        "model": "Galaxy Nexus",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 7"
+        "model": "Nexus 7",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus 9"
+        "model": "Nexus 4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus S"
+        "model": "Nexus 6",
+        "OS": "Android"
     },
     {
         "manufacturer": "Google",
-        "model": "Project Tango tablet"
+        "model": "Nexus S",
+        "OS": "Android"
     }
 ]

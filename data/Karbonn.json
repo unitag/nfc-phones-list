@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Karbonn",
-        "model": "Titanium X"
+        "model": "Titanium X",
+        "OS": "Android"
     }
 ]

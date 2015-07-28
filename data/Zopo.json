@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "Zopo",
-        "model": "ZP320+"
+        "model": "ZP320+",
+        "OS": "Android"
     },
     {
         "manufacturer": "Zopo",
-        "model": "ZP998"
+        "model": "ZP998",
+        "OS": "Android"
     }
 ]

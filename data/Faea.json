@@ -1,14 +1,17 @@
 [
     {
         "manufacturer": "Faea",
-        "model": "F1"
+        "model": "F1",
+        "OS": ""
     },
     {
         "manufacturer": "Faea",
-        "model": "F2"
+        "model": "F2",
+        "OS": ""
     },
     {
         "manufacturer": "Faea",
-        "model": "F2S"
+        "model": "F2S",
+        "OS": ""
     }
 ]

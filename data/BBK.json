@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "BBK",
-        "model": "Vivo Xplay 3S"
+        "model": "Vivo Xplay 3S",
+        "OS": "Android"
     },
     {
         "manufacturer": "BBK",
-        "model": "Vivo Xplay X5"
+        "model": "Vivo Xplay X5",
+        "OS": "Android"
     }
 ]

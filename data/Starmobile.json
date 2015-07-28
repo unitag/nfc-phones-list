@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "Starmobile",
-        "model": "Knight X"
+        "model": "Knight X",
+        "OS": "Android"
     },
     {
         "manufacturer": "Starmobile",
-        "model": "Octa"
+        "model": "Octa",
+        "OS": "Android"
     }
 ]

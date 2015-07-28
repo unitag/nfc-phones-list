@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Gaba",
-        "model": "A666"
+        "model": "A666",
+        "OS": "Android"
     }
 ]

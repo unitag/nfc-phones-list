@@ -1,18 +1,22 @@
 [
     {
         "manufacturer": "Sonim",
-        "model": "XP1301 Core NFC"
+        "model": "XP1301 Core NFC",
+        "OS": ""
     },
     {
         "manufacturer": "Sonim",
-        "model": "XP6"
+        "model": "XPand NFC",
+        "OS": ""
     },
     {
         "manufacturer": "Sonim",
-        "model": "XP7"
+        "model": "XP6",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sonim",
-        "model": "XPand NFC"
+        "model": "XP7",
+        "OS": "Android"
     }
 ]

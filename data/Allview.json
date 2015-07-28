@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "Allview",
-        "model": "V1 Viper S"
+        "model": "V1 Viper S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Allview",
-        "model": "X1 Xtreme"
+        "model": "X1 Xtreme",
+        "OS": "Android"
     }
 ]

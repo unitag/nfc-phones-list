@@ -1,18 +1,22 @@
 [
     {
         "manufacturer": "Vertu",
-        "model": "Aster"
+        "model": "Constellation",
+        "OS": ""
     },
     {
         "manufacturer": "Vertu",
-        "model": "Constellation"
+        "model": "Ti",
+        "OS": ""
     },
     {
         "manufacturer": "Vertu",
-        "model": "Signature Touch"
+        "model": "Aster",
+        "OS": "Android"
     },
     {
         "manufacturer": "Vertu",
-        "model": "Ti"
+        "model": "Signature Touch",
+        "OS": "Android"
     }
 ]

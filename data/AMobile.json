@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "AMobile",
-        "model": "Titan 5"
+        "model": "Titan 5",
+        "OS": "Android"
     }
 ]

@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Ubuntu",
-        "model": "Edge"
+        "model": "Edge",
+        "OS": ""
     }
 ]

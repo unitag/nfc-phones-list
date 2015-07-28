@@ -1,42 +1,52 @@
 [
     {
         "manufacturer": "Asus",
-        "model": "FonePad Note FHD 6"
+        "model": "FonePad Note FHD 6",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "MeMO Pad 8"
+        "model": "MeMO Pad 8",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "Padfone 2"
+        "model": "Padfone 2",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "Padfone Infinity"
+        "model": "Padfone Infinity",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "PadFone Infinity 2 "
+        "model": "PadFone Infinity 2 ",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "VivoTab"
+        "model": "VivoTab",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "VivoTab RT"
+        "model": "VivoTab RT",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "VivoTab Smart"
+        "model": "VivoTab Smart",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "ZenFone 2"
+        "model": "ZenFone 2",
+        "OS": ""
     },
     {
         "manufacturer": "Asus",
-        "model": "ZenFone Selfie"
+        "model": "ZenFone Selfie",
+        "OS": ""
     }
 ]

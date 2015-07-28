@@ -1,38 +1,47 @@
 [
     {
         "manufacturer": "Turkcell",
-        "model": "MaxiPRO5"
+        "model": "MaxiPRO5",
+        "OS": ""
     },
     {
         "manufacturer": "Turkcell",
-        "model": "T11"
+        "model": "T11/ZTE RAcer II",
+        "OS": ""
     },
     {
         "manufacturer": "Turkcell",
-        "model": "T11/ZTE RAcer II"
+        "model": "T40",
+        "OS": ""
     },
     {
         "manufacturer": "Turkcell",
-        "model": "T40"
+        "model": "T11",
+        "OS": "Android"
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell MaxiPlus5"
+        "model": "Turkcell T40",
+        "OS": "Android"
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell MaxiPro5"
+        "model": "Turkcell MaxiPlus5",
+        "OS": "Android"
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell T11"
+        "model": "Turkcell MaxiPro5",
+        "OS": "Android"
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell T20"
+        "model": "Turkcell T11",
+        "OS": "Android"
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell T40"
+        "model": "Turkcell T20",
+        "OS": "Android"
     }
 ]

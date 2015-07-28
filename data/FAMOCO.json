@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "FAMOCO",
-        "model": "FX100"
+        "model": "FX100",
+        "OS": "Android"
     }
 ]

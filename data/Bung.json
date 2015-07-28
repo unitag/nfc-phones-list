@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Bung",
-        "model": "Bungame Wolf"
+        "model": "Bungame Wolf",
+        "OS": "Android"
     }
 ]

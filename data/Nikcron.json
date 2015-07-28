@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "Nikcron",
-        "model": "NQ610"
+        "model": "NQ610",
+        "OS": "Android"
     },
     {
         "manufacturer": "Nikcron",
-        "model": "NQ719"
+        "model": "NQ719",
+        "OS": "Android"
     }
 ]

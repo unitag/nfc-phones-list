@@ -1,46 +1,57 @@
 [
     {
         "manufacturer": "Kyocera",
-        "model": "Brigadier"
+        "model": "Hydro Elite",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Digno M"
+        "model": "Hydro Icon",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "DuraForce"
+        "model": "Hydro Vibe",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "DuraScout LTE"
+        "model": "Torque",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Hydro Elite"
+        "model": "Brigadier",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Hydro Icon"
+        "model": "Digno M",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Hydro Vibe"
+        "model": "DuraForce",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Infobar A03"
+        "model": "DuraScout LTE",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Torque"
+        "model": "Infobar A03",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Torque LTE"
+        "model": "Torque LTE",
+        "OS": "Android"
     },
     {
         "manufacturer": "Kyocera",
-        "model": "Torque XT"
+        "model": "Torque XT",
+        "OS": "Android"
     }
 ]

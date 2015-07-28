@@ -1,234 +1,292 @@
 [
     {
         "manufacturer": "Sony",
-        "model": "all versions (including variants such as TX, TL)"
+        "model": "SWR10 SmartBand",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "E2303"
+        "model": "Xperia E3 Dual",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "E5663"
+        "model": "Xperia Z2 Tablet",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "SmartWatch2"
+        "model": "Vaio Fit",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Sony Z Ultra Google Play Edition"
+        "model": "Xperia AX",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "SWR10 SmartBand"
+        "model": "Xperia Tablet Z",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Vaio Fit"
+        "model": "Xperia VL",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia A2"
+        "model": "Xperia M2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia A4"
+        "model": "Xperia T2 Ultra",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Acro S"
+        "model": "Xperia Z Ultra",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia AX"
+        "model": "Xperia Z1 Compact",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia C3"
+        "model": "Xperia Z3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia C4"
+        "model": "Xperia Z3 Compact",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia E3"
+        "model": "Xperia E3",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia E3 Dual"
+        "model": "Xperia SP (4G)",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia E4g"
+        "model": "Xperia E4g",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Ion"
+        "model": "SmartWatch2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia J1 Compact"
+        "model": "Xperia M Dual",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia L"
+        "model": "Xperia M2 Aqua",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia M"
+        "model": "Xperia M4 Aqua",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia M Dual"
+        "model": "Xperia SL",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia M2"
+        "model": "Xperia T3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia M2 Aqua"
+        "model": "Xperia TX",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia M4 Aqua"
+        "model": "Xperia acro S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia P"
+        "model": "Xperia Ion",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia S"
+        "model": "Xperia L",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia SL"
+        "model": "Xperia M",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Sola"
+        "model": "Xperia P",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia SP"
+        "model": "Xperia S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia SP (4G)"
+        "model": "Xperia sola",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia T"
+        "model": "Xperia SP",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia T2 Ultra"
+        "model": "Xperia T",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia T2 Ultra Dual"
+        "model": "Xperia V",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia T3"
+        "model": "Xperia Z",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Tablet Z"
+        "model": "Xperia Z1",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia TL"
+        "model": "Xperia Z2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia TX"
+        "model": "Xperia ZL",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia UL"
+        "model": "Xperia ZR",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia V"
+        "model": "all versions (including variants such as TX, TL)",
+        "OS": ""
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia VL"
+        "model": "Xperia T2 Ultra Dual",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z"
+        "model": "Xperia C3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z Ultra"
+        "model": "E2303",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z1"
+        "model": "E5663",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z1 Compact"
+        "model": "Sony Z Ultra Google Play Edition",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z1F"
+        "model": "Xperia A2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z1S"
+        "model": "Xperia A4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z2"
+        "model": "Xperia C4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z2 Tablet"
+        "model": "Xperia J1 Compact",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z2a"
+        "model": "Xperia TL",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z3"
+        "model": "Xperia UL",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z3 Compact"
+        "model": "Xperia Z1F",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z3+"
+        "model": "Xperia Z1S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z3V"
+        "model": "Xperia Z2a",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z3X"
+        "model": "Xperia Z3+",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z4 Compact"
+        "model": "Xperia Z3V",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia Z4v"
+        "model": "Xperia Z3X",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia ZL"
+        "model": "Xperia Z4 Compact",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sony",
-        "model": "Xperia ZR"
+        "model": "Xperia Z4v",
+        "OS": "Android"
     }
 ]

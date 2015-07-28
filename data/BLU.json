@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "BLU",
-        "model": "Life Pure XL"
+        "model": "Life Pure XL",
+        "OS": "Android"
     }
 ]

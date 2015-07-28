@@ -1,98 +1,87 @@
 [
     {
         "manufacturer": "Alcatel",
-        "model": "Hero"
+        "model": "922",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "Hero 2"
+        "model": "996",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "Idol 2"
+        "model": "Hero",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "Idol 2 Mini S"
+        "model": "HERO 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "Idol 2 S"
+        "model": "Idol 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch 922"
+        "model": "IDOL 2 MINI S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch 996"
+        "model": "Idol 2S",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Fire S"
+        "model": "OneTouch Idol 3 4.7",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Hero 2+"
+        "model": "OneTouch Idol 3 5.5",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 2"
+        "model": "POP 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 2 Mini S"
+        "model": "Pop 2 Premium",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 2S"
+        "model": "POP S3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 3"
+        "model": "POP S7",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 3 4.7"
+        "model": "POP S9",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Idol 3 5.5"
+        "model": "OneTouch Pop Fit",
+        "OS": "Android"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Pop 2 5 Premium"
+        "model": "OneTouch Fire S",
+        "OS": "Firefox OS"
     },
     {
         "manufacturer": "Alcatel",
-        "model": "OneTouch Pop 2 5.0"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop D3"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop Fit"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop S3"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop S7"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop S9"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "Orange Hiro"
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "Pop 2 4.5"
+        "model": "OneTouch Pop D3",
+        "OS": "Android"
     }
 ]

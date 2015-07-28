@@ -1,18 +1,22 @@
 [
     {
         "manufacturer": "Panasonic",
-        "model": "BizPad"
+        "model": "BizPad",
+        "OS": ""
     },
     {
         "manufacturer": "Panasonic",
-        "model": "Eluga"
+        "model": "Eluga",
+        "OS": "Android"
     },
     {
         "manufacturer": "Panasonic",
-        "model": "Eluga Power"
+        "model": "ELUGA power",
+        "OS": "Android"
     },
     {
         "manufacturer": "Panasonic",
-        "model": "FZ-X1 Toughpad"
+        "model": "FZ-X1 Toughpad",
+        "OS": "Android"
     }
 ]

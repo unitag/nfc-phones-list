@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "i-Mobile",
-        "model": "IQ X"
+        "model": "IQ X",
+        "OS": "Android"
     },
     {
         "manufacturer": "i-Mobile",
-        "model": "IQ X KEN"
+        "model": "IQ X KEN",
+        "OS": "Android"
     }
 ]

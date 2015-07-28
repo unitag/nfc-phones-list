@@ -1,14 +1,17 @@
 [
     {
         "manufacturer": "Meizu",
-        "model": "MX3"
+        "model": "MX3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Meizu",
-        "model": "MX4"
+        "model": "MX4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Meizu",
-        "model": "MX4 Pro"
+        "model": "MX4 Pro",
+        "OS": "Android"
     }
 ]

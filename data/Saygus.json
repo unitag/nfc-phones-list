@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Saygus",
-        "model": "V2"
+        "model": "V2",
+        "OS": "Android"
     }
 ]

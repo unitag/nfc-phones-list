@@ -1,86 +1,107 @@
 [
     {
         "manufacturer": "BlackBerry",
-        "model": "Bold 9790"
+        "model": "Torch 9810",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Bold 9900"
+        "model": "Torch 9860",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Bold 9930"
+        "model": "Bold 9900",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Classic"
+        "model": "Curve 9350",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve"
+        "model": "PlayBook",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve 9220"
+        "model": "Classic",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve 9350"
+        "model": "Passport",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve 9360"
+        "model": "Bold 9930",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve 9370"
+        "model": "Curve 9360",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Curve 9380"
+        "model": "Curve 9370",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Passport"
+        "model": "Bold 9790",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "PlayBook"
+        "model": "Curve 9380",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Porsche Design P'9981"
+        "model": "Z30",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Porsche Design P’9982"
+        "model": "Curve",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Porsche Design P’9983"
+        "model": "Curve 9220",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Q10"
+        "model": "Porsche Design P'9981",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Q5"
+        "model": "Porsche Design P’9982",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Torch 9810"
+        "model": "Porsche Design P’9983",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Torch 9860"
+        "model": "Q10",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Z10"
+        "model": "Q5",
+        "OS": "BlackBerry OS"
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Z30"
+        "model": "Z10",
+        "OS": "BlackBerry OS"
     }
 ]

@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "SKK Mobile",
-        "model": "Marian S1"
+        "model": "Marian S1",
+        "OS": "Android"
     }
 ]

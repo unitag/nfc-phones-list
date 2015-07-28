@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Marshall",
-        "model": "London"
+        "model": "London",
+        "OS": "Android"
     }
 ]

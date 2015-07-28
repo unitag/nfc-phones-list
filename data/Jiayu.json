@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Jiayu",
-        "model": "G6"
+        "model": "G6",
+        "OS": "Android"
     }
 ]

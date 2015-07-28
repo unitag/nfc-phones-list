@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Amazon",
-        "model": "Fire Phone"
+        "model": "Fire Phone",
+        "OS": ""
     }
 ]

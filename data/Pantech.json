@@ -1,26 +1,32 @@
 [
     {
         "manufacturer": "Pantech",
-        "model": "Discover"
+        "model": "Sky Vega LTE",
+        "OS": ""
     },
     {
         "manufacturer": "Pantech",
-        "model": "Perception"
+        "model": "Sky Vega RAcer",
+        "OS": ""
     },
     {
         "manufacturer": "Pantech",
-        "model": "Sky Vega LTE"
+        "model": "Discover",
+        "OS": "Android"
     },
     {
         "manufacturer": "Pantech",
-        "model": "Sky Vega RAcer"
+        "model": "Perception",
+        "OS": "Android"
     },
     {
         "manufacturer": "Pantech",
-        "model": "Vega Iron 2(IM-A910)"
+        "model": "Vega Iron 2(IM-A910)",
+        "OS": "Android"
     },
     {
         "manufacturer": "Pantech",
-        "model": "Vega Q"
+        "model": "Vega Q",
+        "OS": "Android"
     }
 ]

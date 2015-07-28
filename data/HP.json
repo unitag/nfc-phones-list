@@ -1,10 +1,12 @@
 [
     {
         "manufacturer": "HP",
-        "model": "Elitebook REvolve"
+        "model": "Elitebook REvolve",
+        "OS": ""
     },
     {
         "manufacturer": "HP",
-        "model": "Elitepad 900"
+        "model": "Elitepad 900",
+        "OS": ""
     }
 ]

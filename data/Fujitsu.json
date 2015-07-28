@@ -1,34 +1,42 @@
 [
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows A"
+        "model": "Arrows A",
+        "OS": ""
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows Kiss"
+        "model": "Arrows Kiss",
+        "OS": ""
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows M305/KA4"
+        "model": "Arrows Tab",
+        "OS": ""
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows NX"
+        "model": "Arrows V",
+        "OS": ""
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows Tab"
+        "model": "Arrows µ F-07D",
+        "OS": ""
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows V"
+        "model": "Arrows M305/KA4",
+        "OS": "Android"
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Arrows µ F-07D"
+        "model": "Arrows NX",
+        "OS": "Android"
     },
     {
         "manufacturer": "Fujitsu",
-        "model": "Smartphone Arrows M01"
+        "model": "Smartphone Arrows M01",
+        "OS": "Android"
     }
 ]

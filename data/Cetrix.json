@@ -1,18 +1,22 @@
 [
     {
         "manufacturer": "Cetrix",
-        "model": "CB250"
+        "model": "CB250",
+        "OS": ""
     },
     {
         "manufacturer": "Cetrix",
-        "model": "CD661"
+        "model": "CD661",
+        "OS": ""
     },
     {
         "manufacturer": "Cetrix",
-        "model": "CT973G"
+        "model": "CT973G",
+        "OS": ""
     },
     {
         "manufacturer": "Cetrix",
-        "model": "CV300"
+        "model": "CV300",
+        "OS": ""
     }
 ]

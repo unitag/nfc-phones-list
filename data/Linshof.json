@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Linshof",
-        "model": "i8"
+        "model": "i8",
+        "OS": "Android"
     }
 ]

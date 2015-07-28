@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Yota",
-        "model": "YotaPhone 2"
+        "model": "YotaPhone 2",
+        "OS": "Android"
     }
 ]

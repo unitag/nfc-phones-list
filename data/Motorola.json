@@ -1,114 +1,142 @@
 [
     {
         "manufacturer": "Motorola",
-        "model": "Droid Kinzie"
+        "model": "Droid Razr",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Maxx"
+        "model": "Droid Razr M",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Mini"
+        "model": "Droid Razr M 4G LTE",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr"
+        "model": "MC75A HF",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr HD"
+        "model": "Photon Q 4G LTE",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr I"
+        "model": "Razr i/MT788",
+        "OS": ""
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr M"
+        "model": "Droid Razr I",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr M 4G LTE"
+        "model": "Droid Razr Maxx",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr M HD"
+        "model": "Photon Q",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr Maxx"
+        "model": "Droid MAXX",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Razr Maxx HD"
+        "model": "Droid Mini",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Turbo"
+        "model": "Droid RAZR HD",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Droid Ultra"
+        "model": "Droid Razr Maxx HD",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Electrify M"
+        "model": "Droid Ultra",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "MC75A HF"
+        "model": "Razr D3",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Moto Maxx"
+        "model": "Razr M",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Moto X"
+        "model": "Razr HD",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Moto X Pro"
+        "model": "Razr I",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Nexus 6"
+        "model": "Droid Kinzie",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Photon Q"
+        "model": "Droid Razr M HD",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Photon Q 4G"
+        "model": "Droid Turbo",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Photon Q 4G LTE"
+        "model": "Electrify M",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Razr D3"
+        "model": "Moto Maxx",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Razr HD"
+        "model": "Moto X Pro",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Razr I"
+        "model": "Nexus 6",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Razr i/MT788"
+        "model": "Photon Q 4G",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "Razr M"
+        "model": "X",
+        "OS": "Android"
     },
     {
         "manufacturer": "Motorola",
-        "model": "X"
+        "model": "Moto X",
+        "OS": "Android"
     }
 ]

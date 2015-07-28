@@ -1,14 +1,17 @@
 [
     {
         "manufacturer": "Apple",
-        "model": "iPhone 6"
+        "model": "Watch",
+        "OS": "iOS"
     },
     {
         "manufacturer": "Apple",
-        "model": "iPhone 6 Plus"
+        "model": "iPhone 6",
+        "OS": "iOS"
     },
     {
         "manufacturer": "Apple",
-        "model": "Watch"
+        "model": "iPhone 6 Plus",
+        "OS": "iOS"
     }
 ]

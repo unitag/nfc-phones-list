@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "O2",
-        "model": "Super K1"
+        "model": "Super K1",
+        "OS": "Android"
     }
 ]

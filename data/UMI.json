@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "UMI",
-        "model": "Cross"
+        "model": "Cross",
+        "OS": "Android"
     }
 ]

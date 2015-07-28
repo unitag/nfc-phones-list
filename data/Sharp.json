@@ -1,46 +1,57 @@
 [
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Crystal 2"
+        "model": "Aquos Phone Serie",
+        "OS": ""
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Crystal X"
+        "model": "Aquos Phone Zeta",
+        "OS": ""
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos K"
+        "model": "RW-T107 NFC Tablet",
+        "OS": ""
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Mini"
+        "model": "RW-T110 NFC Tablet",
+        "OS": ""
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone Serie"
+        "model": "Aquos Crystal 2",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone Serie SHL22"
+        "model": "Aquos Crystal X",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone si SH-07E"
+        "model": "Aquos K",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone Xx"
+        "model": "Aquos Mini",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone Zeta"
+        "model": "Aquos Phone Serie SHL22",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "RW-T107 NFC Tablet"
+        "model": "Aquos Phone si SH-07E",
+        "OS": "Android"
     },
     {
         "manufacturer": "Sharp",
-        "model": "RW-T110 NFC Tablet"
+        "model": "Aquos Phone Xx",
+        "OS": "Android"
     }
 ]

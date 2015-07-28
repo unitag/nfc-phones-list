@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Jolla",
-        "model": "Jolla"
+        "model": "Jolla",
+        "OS": "Windows Phone"
     }
 ]

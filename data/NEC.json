@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "NEC",
-        "model": "Terrain"
+        "model": "Terrain",
+        "OS": "Android"
     }
 ]

@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Haier",
-        "model": "Voyage V5"
+        "model": "Voyage V5",
+        "OS": "Android"
     }
 ]

@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "iBall",
-        "model": "Andi 4.5M Enigma"
+        "model": "Andi 4.5M Enigma",
+        "OS": "Android"
     }
 ]

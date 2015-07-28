@@ -1,6 +1,7 @@
 [
     {
         "manufacturer": "Topaz",
-        "model": "NTAG"
+        "model": "NTAG",
+        "OS": ""
     }
 ]

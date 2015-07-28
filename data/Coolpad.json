@@ -1,14 +1,17 @@
 [
     {
         "manufacturer": "Coolpad",
-        "model": "8860U"
+        "model": "8860U",
+        "OS": "Android"
     },
     {
         "manufacturer": "Coolpad",
-        "model": "Halo"
+        "model": "Halo",
+        "OS": "Android"
     },
     {
         "manufacturer": "Coolpad",
-        "model": "S6"
+        "model": "S6",
+        "OS": "Android"
     }
 ]
