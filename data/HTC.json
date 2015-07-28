@@ -1,317 +1,416 @@
 [
     {
         "manufacturer": "HTC",
-        "model": "Windows Phone 8X ",
-        "OS": ""
+        "model": "Windows Phone 8X",
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Incredible S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 500",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Incredible",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Mini",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "One",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "One X/XL",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Ruby/Amaze 4G",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 510",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 610",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 816",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire Eye",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 820",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "One M8",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "8X",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "HTC One (M8)",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M9",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "One M8s",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One Mini 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire C",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Droid Incredible 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One SV",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One VX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "HTC Desire 620",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "HTC one E8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "HTC one E9",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "HTC one M8",
-        "OS": "Android / Windows Phone"
+        "OS": [
+            "Android",
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "HTC one M9",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Amaze 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "J Butterfly",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One X+",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "8XT",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "A50C",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Accord",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Butterfly",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Butterfly 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Butterfly S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 501",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 600",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 608t",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 612",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 620",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 816 LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire 826",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire A55",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Desire U",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "Droid DNA",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "E1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One E8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One E9+",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M8 for Windows",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M8i",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M8si",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One M9+",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One ME",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One remix",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "First",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Windows Phone 8X",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Evo 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One XL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

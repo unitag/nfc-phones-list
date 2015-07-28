@@ -2,6 +2,8 @@
     {
         "manufacturer": "Bluboo",
         "model": "C100",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

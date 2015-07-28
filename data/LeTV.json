@@ -2,6 +2,8 @@
     {
         "manufacturer": "LeTV",
         "model": "Le 1 Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

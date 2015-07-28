@@ -2,51 +2,71 @@
     {
         "manufacturer": "Oppo",
         "model": "Find 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "Find 7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "N1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "3000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "Find 7a",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "N3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1C",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "U3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

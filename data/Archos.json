@@ -2,6 +2,8 @@
     {
         "manufacturer": "Archos",
         "model": "50 Diamond",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,3651 +2,4810 @@
     {
         "manufacturer": "AMobile",
         "model": "Titan 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Cloud Mobile",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Acer",
         "model": "E320 Liquid Express",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid S2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid E",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid E1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Glow E330",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "CloudMobile S500",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Glow",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Express E320",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "922",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "996",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Hero",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "HERO 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "IDOL 2 MINI S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 4.7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 5.5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Pop 2 Premium",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Pop Fit",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Fire S",
-        "OS": "Firefox OS"
+        "OS": [
+            "Firefox OS"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Pop D3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Allview",
         "model": "V1 Viper S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Allview",
         "model": "X1 Xtreme",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Amazon",
         "model": "Fire Phone",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Apple",
         "model": "Watch",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     },
     {
         "manufacturer": "Apple",
         "model": "iPhone 6",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     },
     {
         "manufacturer": "Apple",
         "model": "iPhone 6 Plus",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     },
     {
         "manufacturer": "Archos",
         "model": "50 Diamond",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Asus",
         "model": "FonePad Note FHD 6",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "MeMO Pad 8",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "Padfone 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "Padfone Infinity",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
-        "model": "PadFone Infinity 2 ",
-        "OS": ""
+        "model": "PadFone Infinity 2",
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "VivoTab",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "VivoTab RT",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "VivoTab Smart",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "ZenFone 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Asus",
         "model": "ZenFone Selfie",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "BBK",
         "model": "Vivo Xplay 3S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "BBK",
         "model": "Vivo Xplay X5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "BLU",
         "model": "Life Pure XL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "BenQ",
         "model": "B50",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "BenQ",
         "model": "F52",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Torch 9810",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Torch 9860",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Bold 9900",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9350",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "PlayBook",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Classic",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Passport",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Bold 9930",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9360",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9370",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Bold 9790",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9380",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Z30",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9220",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P'9981",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P’9982",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P’9983",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Q10",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Q5",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Z10",
-        "OS": "BlackBerry OS"
+        "OS": [
+            "BlackBerry OS"
+        ]
     },
     {
         "manufacturer": "Bluboo",
         "model": "C100",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Bung",
         "model": "Bungame Wolf",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Casio",
         "model": "DT-X8",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "G’zOne CA-201L",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "IT-800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne CA201L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne Commando 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cetrix",
         "model": "CB250",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Cetrix",
         "model": "CD661",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Cetrix",
         "model": "CT973G",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Cetrix",
         "model": "CV300",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Axis",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Cosmos One Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Flare X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Omega Infinity",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Rave 2.0",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Cloudfone",
         "model": "Thrill 601 FHD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Coolpad",
         "model": "8860U",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Coolpad",
         "model": "Halo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Coolpad",
         "model": "S6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Dell",
         "model": "Venue 11 Pro",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Elephone",
         "model": "P5000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "P8000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "P9000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "Precious G7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Estar",
         "model": "Takee 1",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "FAMOCO",
         "model": "FX100",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Faea",
         "model": "F1",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Faea",
         "model": "F2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Faea",
         "model": "F2S",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows A",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows Kiss",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows Tab",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows V",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows µ F-07D",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows M305/KA4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows NX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Smartphone Arrows M01",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gaba",
         "model": "A666",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gionee",
         "model": "Elife E7 LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gionee",
         "model": "Elife E7 mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gionee",
         "model": "Elife E8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Project Tango tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 10",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Galaxy Nexus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Google",
         "model": "Nexus S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HP",
         "model": "Elitebook REvolve",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HP",
         "model": "Elitepad 900",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Windows Phone 8X ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Incredible S",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 500",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Incredible",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Mini",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One X/XL",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Ruby/Amaze 4G",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 510",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 610",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 816",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire Eye",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 820",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M8",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "8X",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC One (M8)",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M9",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M8s",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One Mini 2",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire C",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Droid Incredible 4G LTE",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One Max",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One SV",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One VX",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC Desire 620",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC one E8",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC one E9",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC one M8",
-        "OS": "Android / Windows Phone"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "HTC one M9",
-        "OS": ""
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Amaze 4G",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "J Butterfly",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One X+",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "8XT",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "A50C",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Accord",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Butterfly",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Butterfly 2",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Butterfly S",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 501",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 600",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 608t",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 612",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 620",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 816 LTE",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire 826",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire A55",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Desire U",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "Droid DNA",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "E1",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One E8",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One E9+",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M7",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M8 for Windows",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M8i",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M8si",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One M9+",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One ME",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "One remix",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "HTC",
-        "model": "First",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Windows Phone 8X",
-        "OS": ""
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Incredible S",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 500",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Incredible",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Mini",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One X/XL",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Ruby/Amaze 4G",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 510",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 610",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 816",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire Eye",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 820",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M8",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "8X",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC One (M8)",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M9",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M8s",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One Mini 2",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire C",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Droid Incredible 4G LTE",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One Max",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One SV",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One VX",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC Desire 620",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC one E8",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC one E9",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC one M8",
+        "OS": [
+            "Android",
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "HTC one M9",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Amaze 4G",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "J Butterfly",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One X+",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "8XT",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "A50C",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Accord",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Butterfly",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Butterfly 2",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Butterfly S",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 501",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 600",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 608t",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 612",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 620",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 816 LTE",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire 826",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire A55",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Desire U",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Droid DNA",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "E1",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One E8",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One E9+",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M7",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M8 for Windows",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M8i",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M8si",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One M9+",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One ME",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "One remix",
+        "OS": [
+            "Android"
+        ]
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "First",
+        "OS": []
+    },
+    {
+        "manufacturer": "HTC",
+        "model": "Windows Phone 8X",
+        "OS": []
     },
     {
         "manufacturer": "HTC",
         "model": "Evo 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "HTC",
         "model": "One XL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Haier",
         "model": "Voyage V5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "Sero 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-H910",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L681",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L690",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L696",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "G620S",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "TalkBand B1",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G300",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend Y201",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "Sonic/Turkcell T20",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend Mate 7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Honor 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "P8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P8 lite",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G620s",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend W1",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G630",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend Mate",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Sonic",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G620S-L02",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G740",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend GX1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P7 Sapphire Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend Y 200",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend Y635",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "C199S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "G520",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Honor 4 Play",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Mulan",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "P8 Lite",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "P8 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "U8651T",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G510",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G6 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G600",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P7 mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "InFocus",
         "model": "IN810",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "InFocus",
         "model": "M320u",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "InFocus",
         "model": "M330",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "InFocus",
         "model": "M512",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Intel",
         "model": "AZ210",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Jiayu",
         "model": "G6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Jolla",
         "model": "Jolla",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Karbonn",
         "model": "Titanium X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kuoziro",
         "model": "FT701W NFC Tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Kyocera",
         "model": "Hydro Elite",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Hydro Icon",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Hydro Vibe",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Torque",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Brigadier",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Digno M",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "DuraForce",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "DuraScout LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Infobar A03",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Torque LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Kyocera",
         "model": "Torque XT",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "March",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "Optimus max 3D",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "Fx0",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "G3 Beat/LG G3 S",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "KU380-NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "L90",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "Optimus LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "Optimus LTE Tag",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "Optimus Net",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "T530 Ego",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "LG",
         "model": "G Flex 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Intuition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Volt",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "F70",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G2 D802",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G2 Mini D620",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 D855",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus Vu 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Escape",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L7 II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Spectrum 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G Flex",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G Pro 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Mach",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus 3D MAX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus 4X HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus Elite",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus Vu",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Viper",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus F3 LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus Vu II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus F7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus G Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Prada 3.0",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "AKA",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Band Play",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "F60",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G Stylo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G Vista",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G2 Mini LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 Beat",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 Cat. 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 Prime",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G3 Vigor",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G4 Beat",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "G4 Stylus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "GX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Gx2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "KDDI Fx0",
-        "OS": "Firefox OS"
+        "OS": [
+            "Firefox OS"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "L Fino",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Lucid 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Nexus 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Nexus 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus F3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus F5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus F6 (LG-D500)",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus it",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L5 II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L9 II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Optimus L90",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LG",
         "model": "Spectrum",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "LeTV",
         "model": "Le 1 Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "K800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Lenovo",
         "model": "ThinkPad Tablet 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Lenovo",
         "model": "A805e",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Sisley S90",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Shot",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Z2 Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Z3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Linshof",
         "model": "i8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lumigon",
         "model": "T2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lumigon",
         "model": "T2 HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Marshall",
         "model": "London",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Meizu",
         "model": "MX3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Meizu",
         "model": "MX4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Meizu",
         "model": "MX4 Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 640",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 640 XL",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 940 XL",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr M",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr M 4G LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "MC75A HF",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "Photon Q 4G LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "Razr i/MT788",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr I",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr Maxx",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Photon Q",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid MAXX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid RAZR HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr Maxx HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Ultra",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Razr D3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Razr M",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Razr HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Razr I",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Kinzie",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Razr M HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Droid Turbo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Electrify M",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Moto Maxx",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Moto X Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Nexus 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Photon Q 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Motorola",
         "model": "Moto X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "NEC",
         "model": "Terrain",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Nikcron",
         "model": "NQ610",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Nikcron",
         "model": "NQ719",
-        "OS": "Android"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "801T ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 820 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 920 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 730/735",
-        "OS": ""
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "801T",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "C7/Astound",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 2520",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Oro",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 830",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 930",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia Icon",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 820 4G",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6131",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6212 Classic",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6216 Classic",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610 NFC Version",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 NFC Version",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "C7",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "603",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "700",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "701",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1020",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1520",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610 NFC",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 620",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 720",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 820",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 920",
-        "OS": "Windows Phone"
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 730/735",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "801T",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "C7/Astound",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 2520",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Oro",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 830",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 930",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia Icon",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 820 4G",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6131",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6212 Classic",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6216 Classic",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610 NFC Version",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 620 NFC Version",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "C7",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "603",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "700",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "701",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 1020",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 1520",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610 NFC",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 620",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 720",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 820",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 920",
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 925",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 928",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 730",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 735",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 810",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 822",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "C7 Astound",
-        "OS": "Symbian"
+        "OS": [
+            "Symbian"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 825",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Phi",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "X",
-        "OS": "Nokia X Software Platform"
+        "OS": [
+            "Nokia X Software Platform"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "808 PureView",
-        "OS": "Symbian"
+        "OS": [
+            "Symbian"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "N9",
-        "OS": "MeeGo"
+        "OS": [
+            "MeeGo"
+        ]
     },
     {
         "manufacturer": "O2",
         "model": "Super K1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "OnePlus",
         "model": "One",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "OnePlus",
         "model": "Two",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Oppo",
         "model": "Find 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "Find 7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "N1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "3000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "Find 7a",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "N3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1C",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "R1S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Oppo",
         "model": "U3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Orange",
         "model": "Infinity 996",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Orange",
         "model": "San Diego",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Orange",
         "model": "Nura",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Panasonic",
         "model": "BizPad",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Panasonic",
         "model": "Eluga",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Panasonic",
         "model": "ELUGA power",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Panasonic",
         "model": "FZ-X1 Toughpad",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Pantech",
         "model": "Sky Vega LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Pantech",
         "model": "Sky Vega RAcer",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Pantech",
         "model": "Discover",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Pantech",
         "model": "Perception",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Pantech",
         "model": "Vega Iron 2(IM-A910)",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Pantech",
         "model": "Vega Q",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "PhiComm",
         "model": "Passion P660",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Philips",
         "model": "Xenium W336",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Philips",
         "model": "i999",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Philips",
         "model": "Xenium W8555",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Prestigio",
         "model": "MultiPhone 7600 Duo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "SKK Mobile",
         "model": "Marian S1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Nexus S",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S Blaze",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace 4 LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Axiom/Alcatel Galaxy Admire 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Exhilarate",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Grand 2 LTE",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Active/Sport",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4 zoom",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Premier",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Round",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Rugby LTE/Pro",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Young",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "S5230 NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "S5260 NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "SHW-A170K",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Wave 578",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Wave M",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Wave Y",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Windows RT Ativ Tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "WP8 Ativ S",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace Style",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Alpha",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy K Zoom",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S6 Edge",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Z",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy ACE 3 (4G)",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Express (4G)",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Grand 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 2 4G",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3 4G",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3 Mini NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4 Advance",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 4G+",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Xcover 3",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy A7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core Prime",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 3 Neo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Young 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy A3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy A5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Mega 2, AT&T",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S III Prepaid",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Grand Prime",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Mega",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S III",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S III Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Ativ Odyssey",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Ativ S Neo",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Ativ SE",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Avant",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Light",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note Edge",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4 Active",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4 Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Victory 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Axiom",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core Advance",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Express",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Express 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy mini 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S II Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Stratosphere II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Trend",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "S5230",
-        "OS": "Bada"
+        "OS": [
+            "Bada"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "ATIV S",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Fame",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Nexus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S Relay 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Epic 4G Touch",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy A8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace 2 x",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace Style L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Admire 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Amp",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core Lite",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Golden",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Grand",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Grand Prime Value Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy J1 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy J5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy J7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Mega 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Mega 2 LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Mega 6.3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note 3 Active",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Prevail",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S II i9100",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S III mini Value Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S2 Skyrocket",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S2 Skyrocket HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3 Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3 Neo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S4 Value Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Active",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Mini LTE-A",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Neo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Prime",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S5 Sport",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S6 Active",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S6 Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Xcover 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Jitterbug Touch3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Nexus S 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "S6 Edge Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "T-Mobile Galaxy S2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Ace 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Note II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Rugby Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S Advance",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S Blaze 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Saygus",
         "model": "V2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Serie",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Zeta",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sharp",
         "model": "RW-T107 NFC Tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sharp",
         "model": "RW-T110 NFC Tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Crystal 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Crystal X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos K",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Serie SHL22",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone si SH-07E",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Xx",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sonim",
         "model": "XP1301 Core NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sonim",
         "model": "XPand NFC",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sonim",
         "model": "XP6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sonim",
         "model": "XP7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "SWR10 SmartBand",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia E3 Dual",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2 Tablet",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Vaio Fit",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia AX",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Tablet Z",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia VL",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T2 Ultra",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z Ultra",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1 Compact",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3 Compact",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia E3",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia SP (4G)",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia E4g",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "SmartWatch2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M Dual",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M2 Aqua",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M4 Aqua",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia SL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia TX",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia acro S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Ion",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia P",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia sola",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia SP",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia V",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia ZL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia ZR",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "all versions (including variants such as TX, TL)",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T2 Ultra Dual",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia C3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "E2303",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "E5663",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Sony Z Ultra Google Play Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia A2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia A4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia C4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia J1 Compact",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia TL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia UL",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1F",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2a",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3+",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3V",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z4 Compact",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z4v",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Starmobile",
         "model": "Knight X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Starmobile",
         "model": "Octa",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "TCL",
         "model": "M2L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "TCL",
         "model": "M2T",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "TCL",
         "model": "P688L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
         "model": "2015",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
-        "model": "T100 Monkey King 2 ",
-        "OS": "Android"
+        "model": "T100 Monkey King 2",
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
         "model": "T11",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
         "model": "W11 Monkey King",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Topaz",
         "model": "NTAG",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Toughshield",
         "model": "R-500",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Toughshield",
         "model": "T700",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Turkcell",
         "model": "MaxiPRO5",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Turkcell",
         "model": "T11/ZTE RAcer II",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Turkcell",
         "model": "T40",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Turkcell",
         "model": "T11",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell T40",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell MaxiPlus5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell MaxiPro5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell T11",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell T20",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "UMI",
         "model": "Cross",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Ubuntu",
         "model": "Edge",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Uniscope",
         "model": "Uniscope XC2S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vertu",
         "model": "Constellation",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vertu",
         "model": "Ti",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vertu",
         "model": "Aster",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vertu",
         "model": "Signature Touch",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Power",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart III",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Turbo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart III NFC",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "985N Smart 4 Power",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart Prime 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Wicked",
         "model": "Leak Wammy Note 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "XOLO",
         "model": "X900",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi3",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 2A",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 2A",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 3 TD-SDCMA",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 3 WCDMA/CDMA2000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5 Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Yota",
         "model": "YotaPhone 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "R233",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Blade II",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "GoTa GH800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Orbit",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Turkcell MaxiPLUS5",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Axon",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand X IN",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Kis",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "PF200",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Axon Lux",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Force",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Warp 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand Era",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Imperial",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "N800",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia 5S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia W5",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia X6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Elite Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Render",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Savvy",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Flash",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Force",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Vital",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Supreme",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Zopo",
         "model": "ZP320+",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Zopo",
         "model": "ZP998",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "i-Mobile",
         "model": "IQ X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "i-Mobile",
         "model": "IQ X KEN",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "iBall",
         "model": "Andi 4.5M Enigma",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "iOcean",
         "model": "G7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

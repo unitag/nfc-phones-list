@@ -2,16 +2,22 @@
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 640",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 640 XL",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 940 XL",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     }
 ]

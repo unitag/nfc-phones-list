@@ -2,6 +2,8 @@
     {
         "manufacturer": "Karbonn",
         "model": "Titanium X",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

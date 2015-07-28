@@ -2,11 +2,11 @@
     {
         "manufacturer": "Toughshield",
         "model": "R-500",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Toughshield",
         "model": "T700",
-        "OS": ""
+        "OS": []
     }
 ]

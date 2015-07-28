@@ -2,21 +2,29 @@
     {
         "manufacturer": "Elephone",
         "model": "P5000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "P8000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "P9000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Elephone",
         "model": "Precious G7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,16 +2,16 @@
     {
         "manufacturer": "Faea",
         "model": "F1",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Faea",
         "model": "F2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Faea",
         "model": "F2S",
-        "OS": ""
+        "OS": []
     }
 ]

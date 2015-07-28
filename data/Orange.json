@@ -2,16 +2,20 @@
     {
         "manufacturer": "Orange",
         "model": "Infinity 996",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Orange",
         "model": "San Diego",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Orange",
         "model": "Nura",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

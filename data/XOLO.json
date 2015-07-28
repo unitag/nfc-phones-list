@@ -2,6 +2,8 @@
     {
         "manufacturer": "XOLO",
         "model": "X900",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

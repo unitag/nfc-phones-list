@@ -2,11 +2,15 @@
     {
         "manufacturer": "Lumigon",
         "model": "T2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lumigon",
         "model": "T2 HD",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

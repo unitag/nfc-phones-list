@@ -2,26 +2,36 @@
     {
         "manufacturer": "Hisense",
         "model": "Sero 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-H910",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L681",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L690",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Hisense",
         "model": "HS-L696",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

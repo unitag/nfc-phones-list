@@ -2,61 +2,83 @@
     {
         "manufacturer": "Xiaomi",
         "model": "Mi3",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 2A",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 2A",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 3 TD-SDCMA",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Xiaomi 3 WCDMA/CDMA2000",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 4",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5 Plus",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

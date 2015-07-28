@@ -2,6 +2,8 @@
     {
         "manufacturer": "Intel",
         "model": "AZ210",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

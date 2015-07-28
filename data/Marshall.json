@@ -2,6 +2,8 @@
     {
         "manufacturer": "Marshall",
         "model": "London",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

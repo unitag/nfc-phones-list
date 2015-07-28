@@ -2,16 +2,22 @@
     {
         "manufacturer": "Apple",
         "model": "Watch",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     },
     {
         "manufacturer": "Apple",
         "model": "iPhone 6",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     },
     {
         "manufacturer": "Apple",
         "model": "iPhone 6 Plus",
-        "OS": "iOS"
+        "OS": [
+            "iOS"
+        ]
     }
 ]

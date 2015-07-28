@@ -2,171 +2,229 @@
     {
         "manufacturer": "ZTE",
         "model": "R233",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Blade II",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "GoTa GH800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Orbit",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Turkcell MaxiPLUS5",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "ZTE",
         "model": "Axon",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand X IN",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Kis",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "PF200",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Axon Lux",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Force",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Warp 4G",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand Era",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S II",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Imperial",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "N800",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia 5S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia W5",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia X6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Elite Edition",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Render",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Savvy",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Flash",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Force",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Vital",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "ZTE",
         "model": "Supreme",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

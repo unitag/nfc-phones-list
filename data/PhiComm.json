@@ -2,6 +2,8 @@
     {
         "manufacturer": "PhiComm",
         "model": "Passion P660",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

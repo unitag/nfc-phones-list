@@ -2,36 +2,46 @@
     {
         "manufacturer": "Lenovo",
         "model": "K800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Lenovo",
         "model": "ThinkPad Tablet 2",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Lenovo",
         "model": "A805e",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Sisley S90",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Shot",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Z2 Pro",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Lenovo",
         "model": "Vibe Z3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,86 +2,120 @@
     {
         "manufacturer": "Alcatel",
         "model": "922",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "996",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Hero",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "HERO 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "IDOL 2 MINI S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2S",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 4.7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 5.5",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP 2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "Pop 2 Premium",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S7",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S9",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Pop Fit",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Fire S",
-        "OS": "Firefox OS"
+        "OS": [
+            "Firefox OS"
+        ]
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Pop D3",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

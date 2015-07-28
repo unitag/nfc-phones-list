@@ -2,11 +2,13 @@
     {
         "manufacturer": "OnePlus",
         "model": "One",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "OnePlus",
         "model": "Two",
-        "OS": ""
+        "OS": []
     }
 ]

@@ -2,6 +2,8 @@
     {
         "manufacturer": "UMI",
         "model": "Cross",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

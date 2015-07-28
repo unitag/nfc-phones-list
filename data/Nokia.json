@@ -1,212 +1,276 @@
 [
     {
         "manufacturer": "Nokia",
-        "model": "801T ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 820 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 920 ",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 730/735",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
         "model": "801T",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "C7/Astound",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 2520",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Oro",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 830",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 930",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia Icon",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 820 4G",
-        "OS": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6131",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6212 Classic",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "6216 Classic",
-        "OS": "Nokia OS"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610 NFC Version",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 NFC Version",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "C7",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "603",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "700",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "701",
-        "OS": "Symbian"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1020",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1520",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610 NFC",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 620",
-        "OS": "Windows Phone"
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 720",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 820",
-        "OS": "Windows Phone"
+        "OS": []
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 920",
-        "OS": "Windows Phone"
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 730/735",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "801T",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "C7/Astound",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 2520",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Oro",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 830",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 930",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia Icon",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 820 4G",
+        "OS": []
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6131",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6212 Classic",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "6216 Classic",
+        "OS": [
+            "Nokia OS"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610 NFC Version",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 620 NFC Version",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "C7",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "603",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "700",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "701",
+        "OS": [
+            "Symbian"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 1020",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 1520",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 610 NFC",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 620",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 720",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 820",
+        "OS": [
+            "Windows Phone"
+        ]
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 920",
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 925",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 928",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 730",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 735",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 810",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 822",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "C7 Astound",
-        "OS": "Symbian"
+        "OS": [
+            "Symbian"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 825",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "Phi",
-        "OS": "Windows Phone"
+        "OS": [
+            "Windows Phone"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "X",
-        "OS": "Nokia X Software Platform"
+        "OS": [
+            "Nokia X Software Platform"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "808 PureView",
-        "OS": "Symbian"
+        "OS": [
+            "Symbian"
+        ]
     },
     {
         "manufacturer": "Nokia",
         "model": "N9",
-        "OS": "MeeGo"
+        "OS": [
+            "MeeGo"
+        ]
     }
 ]

@@ -2,6 +2,8 @@
     {
         "manufacturer": "Prestigio",
         "model": "MultiPhone 7600 Duo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

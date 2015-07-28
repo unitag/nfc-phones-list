@@ -2,26 +2,30 @@
     {
         "manufacturer": "Casio",
         "model": "DT-X8",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "G’zOne CA-201L",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "IT-800",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne CA201L",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne Commando 4G LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,16 +2,22 @@
     {
         "manufacturer": "Gionee",
         "model": "Elife E7 LTE",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gionee",
         "model": "Elife E7 mini",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Gionee",
         "model": "Elife E8",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

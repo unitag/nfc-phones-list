@@ -2,6 +2,8 @@
     {
         "manufacturer": "Bung",
         "model": "Bungame Wolf",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

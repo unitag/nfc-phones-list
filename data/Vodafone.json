@@ -2,36 +2,46 @@
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Power",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart III",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Turbo",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart III NFC",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "985N Smart 4 Power",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Max",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart Prime 6",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,46 +2,60 @@
     {
         "manufacturer": "Acer",
         "model": "Cloud Mobile",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Acer",
         "model": "E320 Liquid Express",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid S2",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid E",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid E1",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Glow E330",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "CloudMobile S500",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Glow",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Acer",
         "model": "Liquid Express E320",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

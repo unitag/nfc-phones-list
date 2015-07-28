@@ -2,16 +2,20 @@
     {
         "manufacturer": "Philips",
         "model": "Xenium W336",
-        "OS": ""
+        "OS": []
     },
     {
         "manufacturer": "Philips",
         "model": "i999",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "Philips",
         "model": "Xenium W8555",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

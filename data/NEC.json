@@ -2,6 +2,8 @@
     {
         "manufacturer": "NEC",
         "model": "Terrain",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]

@@ -2,21 +2,29 @@
     {
         "manufacturer": "THL",
         "model": "2015",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
-        "model": "T100 Monkey King 2 ",
-        "OS": "Android"
+        "model": "T100 Monkey King 2",
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
         "model": "T11",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     },
     {
         "manufacturer": "THL",
         "model": "W11 Monkey King",
-        "OS": "Android"
+        "OS": [
+            "Android"
+        ]
     }
 ]
