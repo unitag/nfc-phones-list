@@ -1,11 +1,11 @@
 {
-  "name": "nfc-phone-list",
+  "name": "nfc-phones-list",
   "version": "0.0.3",
   "description": "A list of NFC phones and tablets",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unitag/nfc-phone-list.git"
+    "url": "git+https://github.com/unitag/nfc-phones-list.git"
   },
   "keywords": [
     "NFC",
@@ -16,9 +16,9 @@
   "author": "Simon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/unitag/nfc-phone-list/issues"
+    "url": "https://github.com/unitag/nfc-phones-list/issues"
   },
-  "homepage": "https://github.com/unitag/nfc-phone-list#readme",
+  "homepage": "https://github.com/unitag/nfc-phones-list#readme",
   "devDependencies": {
     "globby": "^2.1.0",
     "q": "^1.4.1"
