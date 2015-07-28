@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "homepage": "https://github.com/unitag/nfc-phone-list",
   "authors": [
-    { "name": "Simon", "homepage": "https://unitag.io" }
+    {
+      "name": "Simon",
+      "homepage": "https://unitag.io"
+    }
   ],
   "description": "A list of NFC phones and tablets",
   "main": "dist/nfcList.json",
