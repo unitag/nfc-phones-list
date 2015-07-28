@@ -7,6 +7,7 @@ The `nfc-phone-list` package can be installed through [npm](https://www.npmjs.co
 ```sh
 npm install nfc-phone-list --save
 ```
+
 Or through Bower
 ```sh
 bower install nfc-phone-list --save
