@@ -14,7 +14,6 @@ bower install nfc-phone-list --save
 ```
 
 
-
 Alternatively, the following files are available in the [`dist`](https://github.com/unitag/nfc-phone-list/tree/master/dist) directory:
  - `nfcList.json` JSON formated and indented nfc phones and tablets list.
  - `nfcList.min.json` JSON minified nfc phones and tablets list.
