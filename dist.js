@@ -12,7 +12,7 @@ var nfcList = [];
 function readJson(path) {
 	return Q.nfcall(fs.readFile, path, 'utf-8').then(function (json) {
 		json = JSON.parse(json);
-		nfcList.push(json[0]);
+		nfcList = nfcList.concat(json);
 	});
 }
 

@@ -1,0 +1,510 @@
+[
+    {
+        "manufacturer": "Samsung",
+        "model": "Ativ Odyssey"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Ativ S"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Ativ S Neo"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Ativ SE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Epic 4G Touch"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A5"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A7"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A8"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 2 x"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy ACE 3 (4G)"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 4"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 4 LTE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace Style"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace Style L"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Admire 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Alpha"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Amp"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Avant"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Axiom"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Axiom/Samsung Galaxy Admire 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core Advance"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core Lite"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core LTE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core Plus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Core Prime"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Exhilarate"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Express"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Express (4G)"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Express 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Fame"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Golden"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Grand"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Grand 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Grand 2 LTE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Grand Prime"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Grand Prime Value Edition"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy J1 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy J5"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy J7"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy K Zoom"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Light"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mega"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mega 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mega 2 LTE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mega 2, AT&T"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mega 6.3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Mini 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Nexus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Nexus S"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 2 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 3 Active"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 3 Neo"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note 4"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note Edge"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Note II"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Premier"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Prevail"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Round"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Rugby LTE/Pro"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Rugby Pro"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S Advance"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S Blaze"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S Blaze 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S II"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S II i9100"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S II Plus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S III"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S III Mini"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S III mini Value Edition"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S III Prepaid"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S Relay 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S2 Skyrocket"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S2 Skyrocket HD"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S3 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S3 Mini"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S3 Mini NFC"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S3 Neo"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4 Active"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4 Advance"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4 mini"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4 Value Edition"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S4 zoom"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 4G+"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Active"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Active/Sport"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 mini"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Mini LTE-A"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Neo"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Plus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Prime"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S5 Sport"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S6"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S6 Active"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S6 Edge"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy S6 Plus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Stratosphere II"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Trend"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Victory 4G LTE"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Xcover 3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Young"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Young 2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Jitterbug Touch3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Nexus S 4G"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "S5230"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "S5230 NFC"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "S5260 NFC"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "S6 Edge Plus"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "SHW-A170K"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "T-Mobile Galaxy S2"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Wave 578"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Wave M"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Wave Y"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Windows RT Ativ Tablet"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "WP8 Ativ S"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Xcover 3"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Z"
+    }
+]
