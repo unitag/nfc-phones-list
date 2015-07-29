@@ -1,5 +1,5 @@
-# nfc-phones-list
-A list of NFC phones and tablets
+# NFC Phones List
+A list of NFC phones and tablets. [Demo here](https://www.unitag.io/nfc/is-my-phone-compatible-with-nfc).
 
 ## Installation
 
