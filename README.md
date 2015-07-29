@@ -29,7 +29,7 @@ Each file contains an array of devices for a manufacturer. A device is defined b
 - `OS` - Device operating systems
 
 
-##Device examples
+##Example
 
 ```json
     {
