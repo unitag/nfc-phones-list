@@ -3,12 +3,12 @@ A list of NFC phones and tablets
 
 ## Installation
 
-The `nfc-phones-list` package can be installed through [npm](https://www.npmjs.com/package/nfc-phones-list) :
+The `nfc-phones-list` package can be installed through [npm](https://www.npmjs.com/package/nfc-phones-list):
 ```sh
 npm install nfc-phones-list --save
 ```
 
-Or through Bower
+Or through Bower:
 ```sh
 bower install nfc-phones-list --save
 ```
@@ -23,7 +23,7 @@ Alternatively, the following files are available in the [`dist`](https://github.
 
 The [`data`](https://github.com/unitag/nfc-phones-list/tree/master/data) directory contains lists of phones and tablets in JSON files.
 
-Each file contains an array of devices for the a manufacturer. a device is d
+Each file contains an array of devices for a manufacturer. A device is defined by:
 - `manufacturer` - Device manufacturer
 - `model` - Device name
 - `OS` - Device operating systems
@@ -38,7 +38,6 @@ Each file contains an array of devices for the a manufacturer. a device is d
         "OS": ["Android"]
     },
 ```
-
 
 
 ## License
