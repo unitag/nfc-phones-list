@@ -18,9 +18,7 @@ Alternatively, the following files are available in the [`dist`](https://github.
  - `nfcList.json` JSON formated and indented nfc phones and tablets list.
  - `nfcList.min.json` JSON minified nfc phones and tablets list.
 
-.
-
-##Data
+## Data
 
 The [`data`](https://github.com/unitag/nfc-phones-list/tree/master/data) directory contains lists of phones and tablets in JSON files.
 
@@ -32,9 +30,7 @@ Each file contains an array of devices for a manufacturer. A device is defined b
 - `category` - Device category [Phone, Tablet, Smartwear]
 - `release` - Device release date (timestamp)
 
-.
-
-##Example
+## Example
 
 ```json
     {
