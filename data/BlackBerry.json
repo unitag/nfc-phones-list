@@ -1,149 +1,152 @@
 [
     {
         "manufacturer": "BlackBerry",
-        "model": "Torch 9810",
+        "model": "Bold 9790",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Torch 9860",
-        "OS": [
-            "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Bold 9900",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Curve 9350",
-        "OS": [
-            "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "PlayBook",
-        "OS": [
-            "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Classic",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Passport",
+        "model": "Curve 9350",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Bold 9930",
-        "OS": [
-            "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9360",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9370",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Bold 9790",
-        "OS": [
-            "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Curve 9380",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
-        "model": "Z30",
+        "model": "Passport",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Curve",
-        "OS": [
-            "BlackBerry OS"
-        ]
-    },
-    {
-        "manufacturer": "BlackBerry",
-        "model": "Curve 9220",
-        "OS": [
-            "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P'9981",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P’9982",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Porsche Design P’9983",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Q10",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Q5",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BlackBerry",
         "model": "Z10",
+        "category": "",
         "OS": [
             "BlackBerry OS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "BlackBerry",
+        "model": "Z30",
+        "category": "",
+        "OS": [
+            "BlackBerry OS"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

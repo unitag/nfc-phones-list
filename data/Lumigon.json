@@ -2,15 +2,21 @@
     {
         "manufacturer": "Lumigon",
         "model": "T2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Lumigon",
         "model": "T2 HD",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

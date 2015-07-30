@@ -2,120 +2,137 @@
     {
         "manufacturer": "Alcatel",
         "model": "922",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "996",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "Hero",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "HERO 2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "IDOL 2 MINI S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "6036Y-2CALFR1-1"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "Idol 2S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "6050Y-2AALFR1-1"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 4.7",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "OneTouch Idol 3 5.5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP 2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "Pop 2 Premium",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S3",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S7",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "7045Y-2QALFR1-1"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Alcatel",
         "model": "POP S9",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop Fit",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Fire S",
-        "OS": [
-            "Firefox OS"
-        ]
-    },
-    {
-        "manufacturer": "Alcatel",
-        "model": "OneTouch Pop D3",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

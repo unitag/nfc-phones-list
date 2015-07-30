@@ -2,21 +2,33 @@
     {
         "manufacturer": "Cetrix",
         "model": "CB250",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cetrix",
         "model": "CD661",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cetrix",
         "model": "CT973G",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cetrix",
         "model": "CV300",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

@@ -1,61 +1,14 @@
 [
     {
         "manufacturer": "Acer",
-        "model": "Cloud Mobile",
-        "OS": []
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "E320 Liquid Express",
-        "OS": []
-    },
-    {
-        "manufacturer": "Acer",
         "model": "Liquid S2",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "Liquid E",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "Liquid E1",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "Liquid Glow E330",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "CloudMobile S500",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "Liquid Glow",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Acer",
-        "model": "Liquid Express E320",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [
+            "HM.HD2EF.001"
+        ],
+        "release": ""
     }
 ]

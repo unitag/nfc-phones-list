@@ -2,36 +2,51 @@
     {
         "manufacturer": "Cherry",
         "model": "Mobile Axis",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Cosmos One Plus",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Flare X",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Omega Infinity",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Cherry",
         "model": "Mobile Rave 2.0",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

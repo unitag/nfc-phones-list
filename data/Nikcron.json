@@ -2,15 +2,21 @@
     {
         "manufacturer": "Nikcron",
         "model": "NQ610",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Nikcron",
         "model": "NQ719",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

@@ -2,8 +2,11 @@
     {
         "manufacturer": "Archos",
         "model": "50 Diamond",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

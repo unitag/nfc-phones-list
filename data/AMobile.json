@@ -2,8 +2,11 @@
     {
         "manufacturer": "AMobile",
         "model": "Titan 5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

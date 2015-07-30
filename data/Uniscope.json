@@ -2,8 +2,11 @@
     {
         "manufacturer": "Uniscope",
         "model": "Uniscope XC2S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

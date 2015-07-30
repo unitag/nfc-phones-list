@@ -2,27 +2,39 @@
     {
         "manufacturer": "Panasonic",
         "model": "BizPad",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Panasonic",
         "model": "Eluga",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Panasonic",
         "model": "ELUGA power",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Panasonic",
         "model": "FZ-X1 Toughpad",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

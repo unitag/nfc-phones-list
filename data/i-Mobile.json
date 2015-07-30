@@ -2,15 +2,21 @@
     {
         "manufacturer": "i-Mobile",
         "model": "IQ X",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "i-Mobile",
         "model": "IQ X KEN",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

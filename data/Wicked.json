@@ -2,8 +2,11 @@
     {
         "manufacturer": "Wicked",
         "model": "Leak Wammy Note 4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

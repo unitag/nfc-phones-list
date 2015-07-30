@@ -2,8 +2,11 @@
     {
         "manufacturer": "Haier",
         "model": "Voyage V5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

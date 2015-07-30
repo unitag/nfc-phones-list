@@ -2,29 +2,41 @@
     {
         "manufacturer": "THL",
         "model": "2015",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "THL",
-        "model": "T100 Monkey King 2",
+        "model": "T100 Monkey King 2 ",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "THL",
         "model": "T11",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "THL",
         "model": "W11 Monkey King",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

@@ -2,8 +2,11 @@
     {
         "manufacturer": "Bung",
         "model": "Bungame Wolf",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

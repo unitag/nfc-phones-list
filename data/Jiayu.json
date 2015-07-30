@@ -2,8 +2,11 @@
     {
         "manufacturer": "Jiayu",
         "model": "G6",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

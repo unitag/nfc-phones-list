@@ -1,23 +1,32 @@
 [
     {
         "manufacturer": "Apple",
-        "model": "Watch",
-        "OS": [
-            "iOS"
-        ]
-    },
-    {
-        "manufacturer": "Apple",
         "model": "iPhone 6",
+        "category": "phone",
         "OS": [
             "iOS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Apple",
         "model": "iPhone 6 Plus",
+        "category": "phone",
         "OS": [
             "iOS"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Apple",
+        "model": "Watch",
+        "category": "smartwear",
+        "OS": [
+            "iOS"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

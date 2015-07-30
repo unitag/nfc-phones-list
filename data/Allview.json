@@ -2,15 +2,21 @@
     {
         "manufacturer": "Allview",
         "model": "V1 Viper S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Allview",
         "model": "X1 Xtreme",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

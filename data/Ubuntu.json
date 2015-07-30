@@ -2,6 +2,9 @@
     {
         "manufacturer": "Ubuntu",
         "model": "Edge",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

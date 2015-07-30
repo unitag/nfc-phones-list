@@ -1,52 +1,24 @@
 [
     {
         "manufacturer": "Asus",
-        "model": "FonePad Note FHD 6",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
         "model": "MeMO Pad 8",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "Padfone 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "Padfone Infinity",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "PadFone Infinity 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "VivoTab",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "VivoTab RT",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "VivoTab Smart",
-        "OS": []
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Asus",
         "model": "ZenFone 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Asus",
-        "model": "ZenFone Selfie",
-        "OS": []
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "ZE551ML"
+        ],
+        "release": ""
     }
 ]

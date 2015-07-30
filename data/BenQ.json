@@ -2,15 +2,21 @@
     {
         "manufacturer": "BenQ",
         "model": "B50",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BenQ",
         "model": "F52",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

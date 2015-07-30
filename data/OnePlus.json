@@ -2,13 +2,19 @@
     {
         "manufacturer": "OnePlus",
         "model": "One",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "OnePlus",
         "model": "Two",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

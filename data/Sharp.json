@@ -1,71 +1,104 @@
 [
     {
         "manufacturer": "Sharp",
-        "model": "Aquos Phone Serie",
-        "OS": []
-    },
-    {
-        "manufacturer": "Sharp",
-        "model": "Aquos Phone Zeta",
-        "OS": []
-    },
-    {
-        "manufacturer": "Sharp",
-        "model": "RW-T107 NFC Tablet",
-        "OS": []
-    },
-    {
-        "manufacturer": "Sharp",
-        "model": "RW-T110 NFC Tablet",
-        "OS": []
-    },
-    {
-        "manufacturer": "Sharp",
         "model": "Aquos Crystal 2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Crystal X",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos K",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Mini",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Sharp",
+        "model": "Aquos Phone Serie",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Serie SHL22",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone si SH-07E",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Sharp",
         "model": "Aquos Phone Xx",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Sharp",
+        "model": "Aquos Phone Zeta",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Sharp",
+        "model": "RW-T107 NFC Tablet",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Sharp",
+        "model": "RW-T110 NFC Tablet",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

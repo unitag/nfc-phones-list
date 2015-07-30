@@ -2,15 +2,21 @@
     {
         "manufacturer": "Starmobile",
         "model": "Knight X",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Starmobile",
         "model": "Octa",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

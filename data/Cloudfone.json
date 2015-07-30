@@ -2,8 +2,11 @@
     {
         "manufacturer": "Cloudfone",
         "model": "Thrill 601 FHD",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

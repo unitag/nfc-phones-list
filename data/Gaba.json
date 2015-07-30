@@ -2,8 +2,11 @@
     {
         "manufacturer": "Gaba",
         "model": "A666",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

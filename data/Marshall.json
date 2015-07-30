@@ -2,8 +2,11 @@
     {
         "manufacturer": "Marshall",
         "model": "London",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

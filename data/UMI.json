@@ -2,8 +2,11 @@
     {
         "manufacturer": "UMI",
         "model": "Cross",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

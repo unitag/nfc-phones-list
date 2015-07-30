@@ -2,47 +2,71 @@
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows A",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows Kiss",
-        "OS": []
-    },
-    {
-        "manufacturer": "Fujitsu",
-        "model": "Arrows Tab",
-        "OS": []
-    },
-    {
-        "manufacturer": "Fujitsu",
-        "model": "Arrows V",
-        "OS": []
-    },
-    {
-        "manufacturer": "Fujitsu",
-        "model": "Arrows µ F-07D",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows M305/KA4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Arrows NX",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Fujitsu",
+        "model": "Arrows Tab",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Fujitsu",
+        "model": "Arrows V",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Fujitsu",
+        "model": "Arrows µ F-07D",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Fujitsu",
         "model": "Smartphone Arrows M01",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

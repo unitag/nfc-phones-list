@@ -2,8 +2,11 @@
     {
         "manufacturer": "SKK Mobile",
         "model": "Marian S1",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

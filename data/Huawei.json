@@ -1,235 +1,340 @@
 [
     {
         "manufacturer": "Huawei",
-        "model": "G620S",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "TalkBand B1",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
         "model": "Ascend G300",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend Y201",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Sonic/Turkcell T20",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend Mate 7",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Honor 6",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "P8",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend P8 lite",
-        "OS": []
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G6",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G620s",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend W1",
-        "OS": [
-            "Windows Phone"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend P2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G630",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend Mate",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Sonic",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G620S-L02",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G7",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend G740",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend GX1",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend P7 Sapphire Edition",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend Y 200",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Ascend Y635",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "C199S",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "G520",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Honor 4 Play",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "Mulan",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "P8 Lite",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "P8 Max",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Huawei",
-        "model": "U8651T",
-        "OS": [
-            "Android"
-        ]
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G510",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G6",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G6 4G",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend G600",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G620s",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G620S-L02",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G630",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G7",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend G740",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend GX1",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend Mate",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend Mate 7",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend P2",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P7",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Huawei",
         "model": "Ascend P7 mini",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend P7 Sapphire Edition",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend P8 lite",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend W1",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend Y 200",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend Y201",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Ascend Y635",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "C199S",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "G520",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "G620S",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Honor 4 Play",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Honor 6",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Mulan",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "P8",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "P8 Lite",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "P8 Max",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Sonic",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "Sonic/Turkcell T20",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "TalkBand B1",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Huawei",
+        "model": "U8651T",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

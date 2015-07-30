@@ -1,63 +1,62 @@
 [
     {
         "manufacturer": "Google",
-        "model": "Nexus 9",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Google",
-        "model": "Project Tango tablet",
-        "OS": []
-    },
-    {
-        "manufacturer": "Google",
         "model": "Nexus 10",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Google",
-        "model": "Nexus 5",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Google",
-        "model": "Galaxy Nexus",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Google",
-        "model": "Nexus 7",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Google",
+        "model": "Nexus 5",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Google",
         "model": "Nexus 6",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Google",
-        "model": "Nexus S",
+        "model": "Nexus 7",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Google",
+        "model": "Nexus 9",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

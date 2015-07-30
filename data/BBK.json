@@ -2,15 +2,21 @@
     {
         "manufacturer": "BBK",
         "model": "Vivo Xplay 3S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "BBK",
         "model": "Vivo Xplay X5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

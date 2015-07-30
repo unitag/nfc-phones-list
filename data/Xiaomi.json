@@ -1,84 +1,120 @@
 [
     {
         "manufacturer": "Xiaomi",
-        "model": "Mi3",
-        "OS": []
-    },
-    {
-        "manufacturer": "Xiaomi",
         "model": "Mi 2A",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Xiaomi",
-        "model": "Xiaomi 2A",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Xiaomi",
-        "model": "Xiaomi 3 TD-SDCMA",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Xiaomi",
-        "model": "Xiaomi 3 WCDMA/CDMA2000",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 3S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi 5 Plus",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Xiaomi",
         "model": "Mi Note Pro",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Xiaomi",
+        "model": "Mi3",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Xiaomi",
+        "model": "Xiaomi 2A",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Xiaomi",
+        "model": "Xiaomi 3 TD-SDCMA",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Xiaomi",
+        "model": "Xiaomi 3 WCDMA/CDMA2000",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

@@ -1,26 +1,38 @@
 [
     {
         "manufacturer": "Vertu",
-        "model": "Constellation",
-        "OS": []
-    },
-    {
-        "manufacturer": "Vertu",
-        "model": "Ti",
-        "OS": []
-    },
-    {
-        "manufacturer": "Vertu",
         "model": "Aster",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vertu",
+        "model": "Constellation",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Vertu",
         "model": "Signature Touch",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vertu",
+        "model": "Ti",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

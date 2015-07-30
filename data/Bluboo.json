@@ -2,8 +2,11 @@
     {
         "manufacturer": "Bluboo",
         "model": "C100",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

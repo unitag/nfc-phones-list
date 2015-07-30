@@ -2,8 +2,11 @@
     {
         "manufacturer": "Linshof",
         "model": "i8",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

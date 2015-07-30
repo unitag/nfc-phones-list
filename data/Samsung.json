@@ -1,831 +1,473 @@
 [
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Nexus S",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S Blaze",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace 4 LTE",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Axiom/Alcatel Galaxy Admire 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Core 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Exhilarate",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Grand 2 LTE",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S5 Active/Sport",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S4 zoom",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Premier",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Round",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Rugby LTE/Pro",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Young",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "S5230 NFC",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "S5260 NFC",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "SHW-A170K",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Wave 578",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Wave M",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Wave Y",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Windows RT Ativ Tablet",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "WP8 Ativ S",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace Style",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Alpha",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Core LTE",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy K Zoom",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S5 Mini",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S6",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S6 Edge",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Z",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy ACE 3 (4G)",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Express (4G)",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Grand 2",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note 2 4G",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S3 4G",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S3 Mini NFC",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S4 Advance",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S5 4G+",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Xcover 3",
-        "OS": []
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace 4",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy A7",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Core Prime",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note 3 Neo",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Young 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy A3",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy A5",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace 3",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S3",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Mega 2, AT&T",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S III Prepaid",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Grand Prime",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Mega",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S III",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S III Mini",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Ativ Odyssey",
+        "model": "ATIV Odyssey",
+        "category": "",
         "OS": [
             "Windows Phone"
-        ]
+        ],
+        "serials": [
+            "SCH-I930MSAVZW",
+            "SCH-R860MSAUSC"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
         "model": "Ativ S Neo",
+        "category": "",
         "OS": [
             "Windows Phone"
-        ]
+        ],
+        "serials": [
+            "SGH-I187XBAATT",
+            "SPH-I800HNASPR"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Ativ SE",
+        "model": "ATIV SE",
+        "category": "",
         "OS": [
             "Windows Phone"
-        ]
+        ],
+        "serials": [
+            "SM-W750VMSAVZW"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A3",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "SM-A300FZKUXEF"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A5",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "F-A500ZKU16-01"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy A7",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "F-A700ZKA32-01"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 3",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "GT-S7275UWNXEF"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Ace 4",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "SM-G357FZWZXEF"
+        ],
+        "release": ""
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "Galaxy Alpha",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [
+            "SM-G850FHSEXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Avant",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G386TRKATMB",
+            "SM-G386TZKATMB"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Light",
+        "model": "Galaxy Core 4G",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note 3",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note 4",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note Edge",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S4",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S4 Active",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S4 Mini",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S5",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Victory 4G LTE",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S II",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Axiom",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Core Advance",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Express",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Express 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy mini 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S II Plus",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Stratosphere II",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Trend",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "S5230",
-        "OS": [
-            "Bada"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "ATIV S",
-        "OS": [
-            "Windows Phone"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Fame",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Nexus",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S Relay 4G",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Epic 4G Touch",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy A8",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace 2 x",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace Style L",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Admire 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Amp",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Core Lite",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G386FZKAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Core Plus",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G3500ZKAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Golden",
+        "model": "Galaxy Core Prime",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G360FZSAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Grand",
+        "model": "Galaxy Grand Prime",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G530RZWAUSC",
+            "SM-G530TZAATMB",
+            "SM-G530PZAASPR",
+            "SM-G530AZWZAIO"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Grand Prime Value Edition",
+        "model": "Galaxy Light",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SGH-T399DNATMB"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy J1 4G",
+        "model": "Galaxy Mega",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SGH-I527ZKBATT",
+            "SPH-L600ZKASPR",
+            "SGH-M819ZKATMB",
+            "SCH-R960ZKAUSC"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy J5",
+        "model": "Galaxy Mega 2 AT&T",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G750ANKAATT"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy J7",
+        "model": "Galaxy Note 3",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-N900VWDEVZW",
+            "SM-N900VZKEVZW",
+            "SM-N900AZKEATT",
+            "SM-N900TZKETMB",
+            "SM-N900PZKESPR"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Mega 2",
+        "model": "Galaxy Note 4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-N910AZKEATT",
+            "SM-N910PZKESPR",
+            "SM-N910VZKEVZW",
+            "SM-N910TZKETMB",
+            "SM-N910RZKEUSC"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Mega 2 LTE",
+        "model": "Galaxy Note Edge",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-N915VZKEVZW",
+            "SM-N915AZKEATT",
+            "SM-N915TZKETMB",
+            "SM-N915PZKESPR",
+            "SM-N915RZKEUSC"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Mega 6.3",
+        "model": "Galaxy Note 2",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SCH-I605TSAVZW",
+            "SGH-I317TSAATT",
+            "SGH-T889TSATMB",
+            "SPH-L900TSASPR"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Note 3 Active",
+        "model": "Galaxy S2 GT-i9100P",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "GT-I9100P"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy Prevail",
+        "model": "Galaxy S3",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S II i9100",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S III mini Value Edition",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S2 Skyrocket",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S2 Skyrocket HD",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [
+            "SCH-I535ZKBVZW",
+            "SGH-I747MBBATT",
+            "SGH-T999MBATMB",
+            "SGH-T999ZWATMB",
+            "SPH-L710MBBSPR",
+            "SPH-L710RWBBST",
+            "SPH-L710RWBVMU",
+            "SCH-S960RWBTFN"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy S3 Mini",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G730VMBAVZW",
+            "SM-G730AMBAATT"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S3 Neo",
+        "model": "Galaxy S3 Prepaid",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SCH-I535MBPVZW"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S4 Value Edition",
+        "model": "Galaxy S4",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SPH-L720ZWRBST",
+            "SCH-I545ZBAVZW",
+            "SCH-I545ZWBVZW",
+            "SCH-I545ZWAVZW",
+            "SGH-I337ZRAATT",
+            "SGH-M919ZWATMB",
+            "SPH-L720ZBASPR",
+            "SPH-L720ZPASPR",
+            "SGH-M919RWATMB",
+            "SCH-R970ZWAUSC",
+            "SGH-I337ZKZAIO",
+            "SM-S975LZKATFN",
+            "SCH]-I545ZKALRA",
+            "SCH-R970ZWACSP"
+        ],
+        "release": 1366927200
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Active",
+        "model": "Galaxy S4 Active",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SGH-I537ZAAATT"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Mini LTE-A",
+        "model": "Galaxy S4 Mini",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SCH-I435ZKAVZW",
+            "SGH-I257ZKAATT",
+            "SGH-I257AIAATT",
+            "SPH-L520ZKPSPR",
+            "SPH-L520ZKASPR",
+            "SCH-R890ZKAUSC",
+            "SM-S890LZKATFN",
+            "SCH-I435ZKAXAR"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Neo",
+        "model": "Galaxy S4 zoom",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-C105AZWAATT"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Plus",
+        "model": "Galaxy S5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G900PZWEVMU",
+            "SM-S902LZKATFN",
+            "SM-G900VZDAVZW",
+            "SM-G900AZDAATT",
+            "SM-G900TZDATMB",
+            "SM-G900PZDASPR",
+            "SM-G900TRKATMB",
+            "SM-G900PZWABST",
+            "SM-G900RZDAUSC",
+            "SM-G900PZWAVMU",
+            "SM-G900AZKZAIO",
+            "SM-G800FZKAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Prime",
+        "model": "Galaxy S6",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G920FZKAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S5 Sport",
+        "model": "Galaxy S6 Edge",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G925FZKAXEF"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
-        "model": "Galaxy S6 Active",
+        "model": "Galaxy Victory 4G LTE",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S6 Plus",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [
+            "SPH-L300ZSAVMU"
+        ],
+        "release": ""
     },
     {
         "manufacturer": "Samsung",
         "model": "Galaxy Xcover 3",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Jitterbug Touch3",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Nexus S 4G",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "S6 Edge Plus",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "T-Mobile Galaxy S2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Ace 2",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Note II",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy Rugby Pro",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S Advance",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "Galaxy S Blaze 4G",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [
+            "SM-G388FDSAXEF"
+        ],
+        "release": ""
     }
 ]

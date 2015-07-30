@@ -2,8 +2,11 @@
     {
         "manufacturer": "FAMOCO",
         "model": "FX100",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

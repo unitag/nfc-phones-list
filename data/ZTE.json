@@ -1,230 +1,332 @@
 [
     {
         "manufacturer": "ZTE",
-        "model": "R233",
-        "OS": []
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Blade II",
-        "OS": []
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "GoTa GH800",
-        "OS": []
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Orbit",
-        "OS": []
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Turkcell MaxiPLUS5",
-        "OS": []
-    },
-    {
-        "manufacturer": "ZTE",
         "model": "Axon",
+        "category": "",
         "OS": [
             "Android"
-        ]
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Grand X IN",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Kis",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "Nubia Z5",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "ZTE",
-        "model": "PF200",
-        "OS": [
-            "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Axon Lux",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Blade II",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Force",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Boost Warp 4G",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "GoTa GH800",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand Era",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S II",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Grand S Pro",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Grand X IN",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Imperial",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Kis",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "N800",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia 5S",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia W5",
+        "category": "",
         "OS": [
             "Windows Phone"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia X6",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Nubia Z5",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 Max",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z7 mini",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Elite Edition",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Nubia Z9 Max",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Orbit",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "PF200",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "R233",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Render",
+        "category": "",
         "OS": [
             "Windows Phone"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Savvy",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Flash",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Force",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Sprint Vital",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "ZTE",
         "model": "Supreme",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "ZTE",
+        "model": "Turkcell MaxiPLUS5",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

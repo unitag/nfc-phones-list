@@ -2,8 +2,11 @@
     {
         "manufacturer": "Intel",
         "model": "AZ210",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

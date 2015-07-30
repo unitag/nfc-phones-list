@@ -2,15 +2,21 @@
     {
         "manufacturer": "Zopo",
         "model": "ZP320+",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Zopo",
         "model": "ZP998",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

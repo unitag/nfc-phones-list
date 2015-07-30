@@ -1,21 +1,30 @@
 [
     {
         "manufacturer": "Philips",
-        "model": "Xenium W336",
-        "OS": []
+        "model": "i999",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Philips",
-        "model": "i999",
-        "OS": [
-            "Android"
-        ]
+        "model": "Xenium W336",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Philips",
         "model": "Xenium W8555",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

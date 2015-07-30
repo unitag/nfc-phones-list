@@ -2,58 +2,85 @@
     {
         "manufacturer": "Turkcell",
         "model": "MaxiPRO5",
-        "OS": []
-    },
-    {
-        "manufacturer": "Turkcell",
-        "model": "T11/ZTE RAcer II",
-        "OS": []
-    },
-    {
-        "manufacturer": "Turkcell",
-        "model": "T40",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
         "model": "T11",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
-        "model": "Turkcell T40",
-        "OS": [
-            "Android"
-        ]
+        "model": "T11/ZTE RAcer II",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Turkcell",
+        "model": "T40",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell MaxiPlus5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell MaxiPro5",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell T11",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Turkcell",
         "model": "Turkcell T20",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Turkcell",
+        "model": "Turkcell T40",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

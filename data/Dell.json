@@ -2,6 +2,9 @@
     {
         "manufacturer": "Dell",
         "model": "Venue 11 Pro",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

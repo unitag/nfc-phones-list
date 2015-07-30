@@ -1,79 +1,112 @@
 [
     {
         "manufacturer": "Kyocera",
-        "model": "Hydro Elite",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Kyocera",
-        "model": "Hydro Icon",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Kyocera",
-        "model": "Hydro Vibe",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Kyocera",
-        "model": "Torque",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Kyocera",
         "model": "Brigadier",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "Digno M",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "DuraForce",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "DuraScout LTE",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Kyocera",
+        "model": "Hydro Elite",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Kyocera",
+        "model": "Hydro Icon",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Kyocera",
+        "model": "Hydro Vibe",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "Infobar A03",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Kyocera",
+        "model": "Torque",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "Torque LTE",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Kyocera",
         "model": "Torque XT",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

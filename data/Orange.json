@@ -2,20 +2,29 @@
     {
         "manufacturer": "Orange",
         "model": "Infinity 996",
-        "OS": []
-    },
-    {
-        "manufacturer": "Orange",
-        "model": "San Diego",
-        "OS": [
-            "Android"
-        ]
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Orange",
         "model": "Nura",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Orange",
+        "model": "San Diego",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

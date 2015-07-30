@@ -2,6 +2,9 @@
     {
         "manufacturer": "Estar",
         "model": "Takee 1",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

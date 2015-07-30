@@ -2,11 +2,17 @@
     {
         "manufacturer": "Toughshield",
         "model": "R-500",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Toughshield",
         "model": "T700",
-        "OS": []
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
     }
 ]

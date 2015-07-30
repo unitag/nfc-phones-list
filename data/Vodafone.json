@@ -1,47 +1,68 @@
 [
     {
         "manufacturer": "Vodafone",
-        "model": "Smart 4 Power",
-        "OS": []
-    },
-    {
-        "manufacturer": "Vodafone",
-        "model": "Smart III",
-        "OS": []
-    },
-    {
-        "manufacturer": "Vodafone",
-        "model": "Smart 4 Turbo",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Vodafone",
-        "model": "Smart III NFC",
-        "OS": [
-            "Android"
-        ]
-    },
-    {
-        "manufacturer": "Vodafone",
         "model": "985N Smart 4 Power",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart 4 Max",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vodafone",
+        "model": "Smart 4 Power",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vodafone",
+        "model": "Smart 4 Turbo",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vodafone",
+        "model": "Smart III",
+        "category": "",
+        "OS": [],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Vodafone",
+        "model": "Smart III NFC",
+        "category": "",
+        "OS": [
+            "Android"
+        ],
+        "serials": [],
+        "release": ""
     },
     {
         "manufacturer": "Vodafone",
         "model": "Smart Prime 6",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]

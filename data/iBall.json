@@ -2,8 +2,11 @@
     {
         "manufacturer": "iBall",
         "model": "Andi 4.5M Enigma",
+        "category": "",
         "OS": [
             "Android"
-        ]
+        ],
+        "serials": [],
+        "release": ""
     }
 ]
