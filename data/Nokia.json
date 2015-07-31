@@ -31,7 +31,7 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "6131",
+        "model": "6131 NFC",
         "category": "",
         "OS": [
             "Nokia OS"
@@ -63,7 +63,9 @@
         "manufacturer": "Nokia",
         "model": "801T",
         "category": "",
-        "OS": [],
+        "OS": [
+            "Nokia OS"
+        ],
         "serials": [],
         "release": ""
     },
@@ -79,7 +81,7 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "C7",
+        "model": "C7-00",
         "category": "",
         "OS": [
             "Symbian"
@@ -89,56 +91,10 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "C7 Astound",
+        "model": "Astound",
         "category": "",
         "OS": [
             "Symbian"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "C7/Astound",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1020",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 1520",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 2520",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 610",
-        "category": "",
-        "OS": [
-            "Windows Phone"
         ],
         "serials": [],
         "release": ""
@@ -155,73 +111,7 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "Lumia 610 NFC Version",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 ",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 620 NFC Version",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 720",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 730",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 730/735",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 735",
+        "model": "Lumia 730 Dual SIM",
         "category": "",
         "OS": [
             "Windows Phone"
@@ -251,43 +141,7 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "Lumia 820 ",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 820 4G",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
         "model": "Lumia 822",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 825",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 830",
         "category": "",
         "OS": [
             "Windows Phone"
@@ -307,35 +161,7 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "Lumia 920 ",
-        "category": "",
-        "OS": [],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 925",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
         "model": "Lumia 928",
-        "category": "",
-        "OS": [
-            "Windows Phone"
-        ],
-        "serials": [],
-        "release": ""
-    },
-    {
-        "manufacturer": "Nokia",
-        "model": "Lumia 930",
         "category": "",
         "OS": [
             "Windows Phone"
@@ -367,13 +193,15 @@
         "manufacturer": "Nokia",
         "model": "Oro",
         "category": "",
-        "OS": [],
+        "OS": [
+            "Windows Phone"
+        ],
         "serials": [],
         "release": ""
     },
     {
         "manufacturer": "Nokia",
-        "model": "Phi",
+        "model": "Lumia 1020",
         "category": "",
         "OS": [
             "Windows Phone"
@@ -383,10 +211,110 @@
     },
     {
         "manufacturer": "Nokia",
-        "model": "X",
+        "model": "Lumia 1520",
         "category": "",
         "OS": [
-            "Nokia X Software Platform"
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 2520",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 620",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 720",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 735",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 830",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 925",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 930",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 640 XL LTE",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 640 LTE",
+        "category": "",
+        "OS": [
+            "Windows Phone"
+        ],
+        "serials": [],
+        "release": ""
+    },
+    {
+        "manufacturer": "Nokia",
+        "model": "Lumia 640 LTE double SIM",
+        "category": "",
+        "OS": [
+            "Windows Phone"
         ],
         "serials": [],
         "release": ""
