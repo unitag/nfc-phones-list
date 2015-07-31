@@ -1,8 +1,8 @@
 # NFC Phones List
-A list of NFC phones and tablets. 
+A list of NFC phones and tablets.
 
-## Searchable demo
-Searchable [Demo here](http://opn.to/r/nfc-phones-list).
+## Demo
+See [Demo here](http://opn.to/r/nfc-phones-list).
 
 ## Installation
 
