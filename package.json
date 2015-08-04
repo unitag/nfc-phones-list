@@ -2,7 +2,7 @@
   "name": "nfc-phones-list",
   "version": "0.1.2",
   "description": "A list of NFC phones and tablets",
-  "main": "index.js",
+  "main": "dist/nfcList",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/unitag/nfc-phones-list.git"
