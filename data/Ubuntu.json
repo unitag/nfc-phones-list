@@ -3,8 +3,8 @@
         "manufacturer": "Ubuntu",
         "model": "Edge",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

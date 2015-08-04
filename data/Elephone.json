@@ -3,40 +3,40 @@
         "manufacturer": "Elephone",
         "model": "P5000",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Elephone",
         "model": "P8000",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Elephone",
         "model": "P9000",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Elephone",
         "model": "Precious G7",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

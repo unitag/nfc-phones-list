@@ -3,28 +3,28 @@
         "manufacturer": "Orange",
         "model": "Infinity 996",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Orange",
         "model": "Nura",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Orange",
         "model": "San Diego",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

@@ -3,20 +3,20 @@
         "manufacturer": "BenQ",
         "model": "B50",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "BenQ",
         "model": "F52",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

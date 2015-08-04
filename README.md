@@ -30,7 +30,7 @@ Each file contains an array of devices for a manufacturer. A device is defined b
 - `model` - Device name
 - `OS` - Device operating systems
 - `serials` - Device serial(s)
-- `category` - Device category [Phone, Tablet, Smartwear]
+- `category` - Device category [phone, tablet, smartwear]
 - `release` - Device release date (timestamp)
 
 ## Example
@@ -41,8 +41,8 @@ Each file contains an array of devices for a manufacturer. A device is defined b
         "model": "Galaxy S4",
         "OS": ["Android"],
         "serials": ["SPH-L720ZWRBST", "SCH-I545ZBAVZW]"],
-        "category": "Phone",
-        "release": "1366927200"
+        "category": "phone",
+        "release": 1366927200000
     },
 ```
 

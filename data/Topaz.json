@@ -3,8 +3,8 @@
         "manufacturer": "Topaz",
         "model": "NTAG",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

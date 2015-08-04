@@ -3,10 +3,10 @@
         "manufacturer": "Yota",
         "model": "YotaPhone 2",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

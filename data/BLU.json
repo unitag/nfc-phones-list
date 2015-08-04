@@ -3,10 +3,10 @@
         "manufacturer": "BLU",
         "model": "Life Pure XL",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

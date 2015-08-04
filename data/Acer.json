@@ -3,12 +3,12 @@
         "manufacturer": "Acer",
         "model": "Liquid S2",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "HM.HD2EF.001"
         ],
-        "release": ""
+        "release": null
     }
 ]

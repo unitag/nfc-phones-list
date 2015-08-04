@@ -3,10 +3,10 @@
         "manufacturer": "Marshall",
         "model": "London",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

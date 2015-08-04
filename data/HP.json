@@ -3,16 +3,16 @@
         "manufacturer": "HP",
         "model": "Elitebook REvolve",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "HP",
         "model": "Elitepad 900",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

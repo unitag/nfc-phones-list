@@ -3,320 +3,320 @@
         "manufacturer": "Nokia",
         "model": "603",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "700",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "701",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "6131 NFC",
         "category": "",
-        "OS": [
+        "os": [
             "Nokia OS"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "6212 Classic",
         "category": "",
-        "OS": [
+        "os": [
             "Nokia OS"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "6216 Classic",
         "category": "",
-        "OS": [
+        "os": [
             "Nokia OS"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "801T",
         "category": "",
-        "OS": [
+        "os": [
             "Nokia OS"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "808 PureView",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "C7-00",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Astound",
         "category": "",
-        "OS": [
+        "os": [
             "Symbian"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 610 NFC",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 730 Dual SIM",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 810",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 820",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 822",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 920",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 928",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia Icon",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "N9",
         "category": "",
-        "OS": [
+        "os": [
             "MeeGo"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Oro",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 1020",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 1520",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 2520",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 620",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 720",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 735",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 830",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 925",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 930",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 640 XL LTE",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 640 LTE",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Nokia",
         "model": "Lumia 640 LTE double SIM",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

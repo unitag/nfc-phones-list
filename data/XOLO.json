@@ -3,10 +3,10 @@
         "manufacturer": "XOLO",
         "model": "X900",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

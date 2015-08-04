@@ -3,20 +3,20 @@
         "manufacturer": "Allview",
         "model": "V1 Viper S",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Allview",
         "model": "X1 Xtreme",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

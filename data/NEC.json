@@ -3,10 +3,10 @@
         "manufacturer": "NEC",
         "model": "Terrain",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

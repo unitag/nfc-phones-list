@@ -3,10 +3,10 @@
         "manufacturer": "Linshof",
         "model": "i8",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

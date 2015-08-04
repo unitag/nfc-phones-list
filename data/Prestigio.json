@@ -3,10 +3,10 @@
         "manufacturer": "Prestigio",
         "model": "MultiPhone 7600 Duo",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

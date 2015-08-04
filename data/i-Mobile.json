@@ -3,20 +3,20 @@
         "manufacturer": "i-Mobile",
         "model": "IQ X",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "i-Mobile",
         "model": "IQ X KEN",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

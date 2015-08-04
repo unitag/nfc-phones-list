@@ -3,8 +3,8 @@
         "manufacturer": "Amazon",
         "model": "Fire Phone",
         "category": "",
-        "OS": [],
+        "os": [],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

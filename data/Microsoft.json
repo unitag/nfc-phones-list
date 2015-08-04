@@ -3,30 +3,30 @@
         "manufacturer": "Microsoft",
         "model": "Lumia 640",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 640 XL",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Microsoft",
         "model": "Lumia 940 XL",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

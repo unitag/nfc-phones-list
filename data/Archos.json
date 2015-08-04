@@ -3,10 +3,10 @@
         "manufacturer": "Archos",
         "model": "50 Diamond",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

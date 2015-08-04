@@ -3,10 +3,10 @@
         "manufacturer": "Jolla",
         "model": "Jolla",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Phone"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

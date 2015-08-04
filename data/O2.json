@@ -3,10 +3,10 @@
         "manufacturer": "O2",
         "model": "Super K1",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

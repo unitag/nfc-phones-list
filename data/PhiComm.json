@@ -3,10 +3,10 @@
         "manufacturer": "PhiComm",
         "model": "Passion P660",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

@@ -3,10 +3,10 @@
         "manufacturer": "Saygus",
         "model": "V2",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

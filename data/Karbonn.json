@@ -3,10 +3,10 @@
         "manufacturer": "Karbonn",
         "model": "Titanium X",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

@@ -3,10 +3,10 @@
         "manufacturer": "iOcean",
         "model": "G7",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

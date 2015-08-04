@@ -3,331 +3,331 @@
         "manufacturer": "Sony",
         "model": "SmartBand SWR10",
         "category": "smartwear",
-        "OS": [],
+        "os": [],
         "serials": [
             "swr10"
         ],
-        "release": 1399334400
+        "release": 1399334400000
     },
     {
         "manufacturer": "Sony",
         "model": "SmartWatch 2",
         "category": "smartwear",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "SmartWatch 3 SWR50",
         "category": "smartwear",
-        "OS": [
+        "os": [
             "Android Wear"
         ],
         "serials": [
             "swr50"
         ],
-        "release": 1413504000
+        "release": 1413504000000
     },
     {
         "manufacturer": "Sony",
         "model": "Sony Z Ultra Google Play edition",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "s"
         ],
-        "release": 1386720000
+        "release": 1386720000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia A2",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia A4",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia acro S",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT26"
         ],
-        "release": 1347926400
+        "release": 1347926400000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia AX",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia C3",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia C4",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia E3",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia E3 Dual",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia ion",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT28h"
         ],
-        "release": 1343952000
+        "release": 1343952000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia J1 Compact",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia L",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "C1904",
             "C1905"
         ],
-        "release": 1376006400
+        "release": 1376006400000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M dual",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "C2004",
             "C2005"
         ],
-        "release": 1380240000
+        "release": 1380240000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M2",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "D2303",
             "D2306"
         ],
-        "release": 1401667200
+        "release": 1401667200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M2 Aqua",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "d2403"
         ],
-        "release": 1411084800
+        "release": 1411084800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia M4 Aqua",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "E2303"
         ],
-        "release": 1432252800
+        "release": 1432252800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia P",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT22"
         ],
-        "release": 1342137600
+        "release": 1342137600000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia S",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT26",
             "LT26i"
         ],
-        "release": 1341187200
+        "release": 1341187200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia SL",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT26ii"
         ],
-        "release": 1354752000
+        "release": 1354752000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia sola",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia SP",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT30a",
             "LT30p"
         ],
-        "release": 1361491200
+        "release": 1361491200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T2 Ultra",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "D5303",
             "D5306"
         ],
-        "release": 1412380800
+        "release": 1412380800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T2 Ultra Dual",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia T3",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Tablet Z",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -338,91 +338,91 @@
             "SGP311",
             "SGP312"
         ],
-        "release": 1368748800
+        "release": 1368748800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia TL",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "lt30at"
         ],
-        "release": 1351728000
+        "release": 1351728000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia TX",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "LT29i"
         ],
-        "release": 1361491200
+        "release": 1361491200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia U",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "ST25i"
         ],
-        "release": 1342137600
+        "release": 1342137600000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia UL",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia V",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia VL",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "c6606"
         ],
-        "release": 1372982400
+        "release": 1372982400000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z Ultra",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -430,13 +430,13 @@
             "C6802",
             "C6806"
         ],
-        "release": 1379894400
+        "release": 1379894400000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -446,47 +446,47 @@
             "L39h",
             "C6943"
         ],
-        "release": 1381795200
+        "release": 1381795200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1 Compact",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "D5503"
         ],
-        "release": 1405036800
+        "release": 1405036800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1F",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z1S",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "C6916"
         ],
-        "release": 1389571200
+        "release": 1389571200000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -494,13 +494,13 @@
             "D6503",
             "D6543"
         ],
-        "release": 1395360000
+        "release": 1395360000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2 Tablet",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -508,48 +508,48 @@
             "SGP541",
             "SGP551"
         ],
-        "release": 1398038400
+        "release": 1398038400000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2 Tablet Verizon",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "sgp561"
         ],
-        "release": 1405296000
+        "release": 1405296000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2 Tablet WiFi",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "SGP511",
             "SGP512"
         ],
-        "release": 1395360000
+        "release": 1395360000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z2a",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -558,104 +558,104 @@
             "D6653",
             "D6616"
         ],
-        "release": 1414108800
+        "release": 1414108800000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3 Compact",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "D5803",
             "D5833"
         ],
-        "release": 1411344000
+        "release": 1411344000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3 Tablet Compact",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "SGP621",
             "SGP612"
         ],
-        "release": 1415232000
+        "release": 1415232000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3+",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3V",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "d6708"
         ],
-        "release": 1413936000
+        "release": 1413936000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z3X",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z4 Compact",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z4 Tablet",
         "category": "tablets",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "SGP771",
             "SGP712"
         ],
-        "release": 1432512000
+        "release": 1432512000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia Z4v",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia ZL",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -664,13 +664,13 @@
             "C6506",
             "L35h"
         ],
-        "release": 1362096000
+        "release": 1362096000000
     },
     {
         "manufacturer": "Sony",
         "model": "Xperia ZR",
         "category": "phone",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
@@ -679,6 +679,6 @@
             "M36h",
             "SO-04E"
         ],
-        "release": 1375660800
+        "release": 1375660800000
     }
 ]

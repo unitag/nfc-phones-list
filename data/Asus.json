@@ -3,22 +3,22 @@
         "manufacturer": "Asus",
         "model": "MeMO Pad 8",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Asus",
         "model": "ZenFone 2",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [
             "ZE551ML"
         ],
-        "release": ""
+        "release": null
     }
 ]

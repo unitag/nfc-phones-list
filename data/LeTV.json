@@ -3,10 +3,10 @@
         "manufacturer": "LeTV",
         "model": "Le 1 Pro",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

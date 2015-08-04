@@ -3,10 +3,10 @@
         "manufacturer": "Uniscope",
         "model": "Uniscope XC2S",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

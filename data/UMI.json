@@ -3,10 +3,10 @@
         "manufacturer": "UMI",
         "model": "Cross",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]

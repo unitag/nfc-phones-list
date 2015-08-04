@@ -3,40 +3,40 @@
         "manufacturer": "Casio",
         "model": "DT-X8",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Mobile"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne CA201L",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Casio",
         "model": "G'zOne Commando 4G LTE",
         "category": "",
-        "OS": [
+        "os": [
             "Android"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     },
     {
         "manufacturer": "Casio",
         "model": "IT-800",
         "category": "",
-        "OS": [
+        "os": [
             "Windows Mobile"
         ],
         "serials": [],
-        "release": ""
+        "release": null
     }
 ]
