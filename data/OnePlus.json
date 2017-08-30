@@ -13,7 +13,19 @@
         "manufacturer": "OnePlus",
         "model": "Two",
         "category": "",
-        "os": [],
+        "os": [
+            "Android"
+        ],
+        "serials": [],
+        "release": null
+    },
+    {
+        "manufacturer": "OnePlus",
+        "model": "5",
+        "category": "",
+        "os": [
+            "Android"
+        ],
         "serials": [],
         "release": null
     }
